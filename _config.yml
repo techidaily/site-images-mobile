@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechiDaily
+title: TechiDaily's mobile images
 subtitle: 'Enjoy life easier but more creative!'
-description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
-keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
+description: 'TechiDaily Mobile Images, is a free mobile images site, where you can find the best mobile images, mobile wallpapers, mobile backgrounds'
+keywords: 'mobile images,  mobile photos, mobile pictures, mobile pics, mobile images free download, mobile images hd, mobile images download'
 author: TechiDaily
 language: en
 timezone: ''
@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://img0mobiles.techidaily.com
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
