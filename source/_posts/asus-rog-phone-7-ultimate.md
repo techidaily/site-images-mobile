@@ -1,25 +1,25 @@
 ---
-title: asus ROG Phone 7 Ultimate's photos
+title: Asus ROG Phone 7 Ultimate's photos
 date: 2024-02-02
 tags: 
-  - asus
+  - Asus
   - ROG Phone 7 Ultimate
   - photos
   - device photo
 categories: 
-  - asus
+  - Asus
   - ROG Phone 7 Ultimate
   - photos
   - device photo
-description: asus ROG Phone 7 Ultimate's photos
-keywords: asus, ROG Phone 7 Ultimate, photos, device photo
+description: Asus ROG Phone 7 Ultimate's photos
+keywords: Asus, ROG Phone 7 Ultimate, photos, device photo
 ---
 
-## asus ROG Phone 7 Ultimate's photos
+## Asus ROG Phone 7 Ultimate's photos
 
 ### Device Information
 
-- Brand: asus
+- Brand: Asus
 - Model: ROG Phone 7 Ultimate
 - Made: 202304
 

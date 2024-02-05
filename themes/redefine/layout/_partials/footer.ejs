@@ -4,12 +4,12 @@
             <div class="customize-info my-1"><%- theme.footer.customize %></div>
         <% } %>
         <div class="text-center">
-            <%= config.author || config.title %> &copy;
+            Copyright &copy;
             <% if (theme.footer.hasOwnProperty('start') && theme.footer.start) { %>
               <span><%= date(new Date(theme.footer.start), 'YYYY') %></span>
               -
             <% } %>
-            <%= date(new Date(), 'YYYY') %>.&nbsp;&nbsp; All Rights Reserved.
+            <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %>.&nbsp;&nbsp; All Rights Reserved.
         </div>
         <% if (theme.global.website_counter.enable === true) { %>
             <script <%= theme.global.single_page === true ? 'data-swup-reload-script' : '' %> src="<%= theme.global.website_counter.url ? theme.global.website_counter.url : "//vercount.one/js" %>"></script>
