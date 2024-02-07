@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://img0mobiles.techidaily.com/sitemap.xml

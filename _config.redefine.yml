@@ -11,7 +11,7 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: TechiDaily
+  title: TechiDaily's mobile images
   # Author name
   author: TechiDaily
   # Site URL
@@ -187,6 +187,9 @@ navbar:
     Privacy:
       path: /privacy
       icon: fa-regular fa-shield-halved
+    Terms and Conditions:
+      path: /terms_conditions
+      icon: fa-regular fa-file-contract      
     About:
       path: /about
       icon: fa-regular fa-user
