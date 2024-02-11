@@ -7,7 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "publish": "npm run _copy:image:md && hexo clean && hexo deploy",
+    "publish": "npm run _copy:image:md && hexo clean && cross-env NODE_OPTIONS=--max_old_space_size=50000  hexo deploy",
     "_copy:image:md": "node ./copy-images-md.mjs"
   },
   "hexo": {
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
+    "cross-env": "^7.0.3",
     "hexo": "^7.0.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
