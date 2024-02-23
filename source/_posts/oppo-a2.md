@@ -1,18 +1,18 @@
 ---
 title: Oppo A2's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - A2
+  - oppo
+  - a2
   - photos
   - device photo
 categories: 
-  - Oppo
-  - A2
+  - oppo
+  - a2
   - photos
   - device photo
 description: Oppo A2's photos
-keywords: Oppo, A2, photos, device photo
+keywords: Oppo A2, Oppo A2 photos, Oppo A2 device photo
 ---
 
 ## Oppo A2's photos

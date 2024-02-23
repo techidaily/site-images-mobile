@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy A15 4G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy A15 4G
+  - samsung
+  - galaxy a15 4g
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy A15 4G
+  - samsung
+  - galaxy a15 4g
   - photos
   - device photo
 description: Samsung Galaxy A15 4G's photos
-keywords: Samsung, Galaxy A15 4G, photos, device photo
+keywords: Samsung Galaxy A15 4G, Samsung Galaxy A15 4G photos, Samsung Galaxy A15 4G device photo
 ---
 
 ## Samsung Galaxy A15 4G's photos

@@ -1,18 +1,18 @@
 ---
 title: Xiaomi 14 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - 14 Pro
+  - xiaomi
+  - 14 pro
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - 14 Pro
+  - xiaomi
+  - 14 pro
   - photos
   - device photo
 description: Xiaomi 14 Pro's photos
-keywords: Xiaomi, 14 Pro, photos, device photo
+keywords: Xiaomi 14 Pro, Xiaomi 14 Pro photos, Xiaomi 14 Pro device photo
 ---
 
 ## Xiaomi 14 Pro's photos

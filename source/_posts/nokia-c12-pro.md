@@ -1,18 +1,18 @@
 ---
 title: Nokia C12 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nokia
-  - C12 Pro
+  - nokia
+  - c12 pro
   - photos
   - device photo
 categories: 
-  - Nokia
-  - C12 Pro
+  - nokia
+  - c12 pro
   - photos
   - device photo
 description: Nokia C12 Pro's photos
-keywords: Nokia, C12 Pro, photos, device photo
+keywords: Nokia C12 Pro, Nokia C12 Pro photos, Nokia C12 Pro device photo
 ---
 
 ## Nokia C12 Pro's photos

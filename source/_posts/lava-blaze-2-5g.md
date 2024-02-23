@@ -1,18 +1,18 @@
 ---
 title: Lava Blaze 2 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Lava
-  - Blaze 2 5G
+  - lava
+  - blaze 2 5g
   - photos
   - device photo
 categories: 
-  - Lava
-  - Blaze 2 5G
+  - lava
+  - blaze 2 5g
   - photos
   - device photo
 description: Lava Blaze 2 5G's photos
-keywords: Lava, Blaze 2 5G, photos, device photo
+keywords: Lava Blaze 2 5G, Lava Blaze 2 5G photos, Lava Blaze 2 5G device photo
 ---
 
 ## Lava Blaze 2 5G's photos

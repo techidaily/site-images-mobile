@@ -1,18 +1,18 @@
 ---
 title: Xiaomi Redmi K70E's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - Redmi K70E
+  - xiaomi
+  - redmi k70e
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - Redmi K70E
+  - xiaomi
+  - redmi k70e
   - photos
   - device photo
 description: Xiaomi Redmi K70E's photos
-keywords: Xiaomi, Redmi K70E, photos, device photo
+keywords: Xiaomi Redmi K70E, Xiaomi Redmi K70E photos, Xiaomi Redmi K70E device photo
 ---
 
 ## Xiaomi Redmi K70E's photos

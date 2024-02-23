@@ -1,18 +1,18 @@
 ---
 title: Honor X8b's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - X8b
+  - honor
+  - x8b
   - photos
   - device photo
 categories: 
-  - Honor
-  - X8b
+  - honor
+  - x8b
   - photos
   - device photo
 description: Honor X8b's photos
-keywords: Honor, X8b, photos, device photo
+keywords: Honor X8b, Honor X8b photos, Honor X8b device photo
 ---
 
 ## Honor X8b's photos

@@ -1,18 +1,18 @@
 ---
 title: Meizu 21's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Meizu
+  - meizu
   - 21
   - photos
   - device photo
 categories: 
-  - Meizu
+  - meizu
   - 21
   - photos
   - device photo
 description: Meizu 21's photos
-keywords: Meizu, 21, photos, device photo
+keywords: Meizu 21, Meizu 21 photos, Meizu 21 device photo
 ---
 
 ## Meizu 21's photos

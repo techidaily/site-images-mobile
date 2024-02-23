@@ -1,18 +1,18 @@
 ---
 title: Realme 10T 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - 10T 5G
+  - realme
+  - 10t 5g
   - photos
   - device photo
 categories: 
-  - Realme
-  - 10T 5G
+  - realme
+  - 10t 5g
   - photos
   - device photo
 description: Realme 10T 5G's photos
-keywords: Realme, 10T 5G, photos, device photo
+keywords: Realme 10T 5G, Realme 10T 5G photos, Realme 10T 5G device photo
 ---
 
 ## Realme 10T 5G's photos

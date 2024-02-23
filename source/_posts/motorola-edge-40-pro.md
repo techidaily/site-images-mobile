@@ -1,18 +1,18 @@
 ---
 title: Motorola Edge 40 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Motorola
-  - Edge 40 Pro
+  - motorola
+  - edge 40 pro
   - photos
   - device photo
 categories: 
-  - Motorola
-  - Edge 40 Pro
+  - motorola
+  - edge 40 pro
   - photos
   - device photo
 description: Motorola Edge 40 Pro's photos
-keywords: Motorola, Edge 40 Pro, photos, device photo
+keywords: Motorola Edge 40 Pro, Motorola Edge 40 Pro photos, Motorola Edge 40 Pro device photo
 ---
 
 ## Motorola Edge 40 Pro's photos

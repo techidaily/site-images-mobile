@@ -1,18 +1,18 @@
 ---
 title: Realme Narzo N53's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - Narzo N53
+  - realme
+  - narzo n53
   - photos
   - device photo
 categories: 
-  - Realme
-  - Narzo N53
+  - realme
+  - narzo n53
   - photos
   - device photo
 description: Realme Narzo N53's photos
-keywords: Realme, Narzo N53, photos, device photo
+keywords: Realme Narzo N53, Realme Narzo N53 photos, Realme Narzo N53 device photo
 ---
 
 ## Realme Narzo N53's photos

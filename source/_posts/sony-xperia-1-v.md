@@ -1,18 +1,18 @@
 ---
 title: Sony Xperia 1 V's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Sony
-  - Xperia 1 V
+  - sony
+  - xperia 1 v
   - photos
   - device photo
 categories: 
-  - Sony
-  - Xperia 1 V
+  - sony
+  - xperia 1 v
   - photos
   - device photo
 description: Sony Xperia 1 V's photos
-keywords: Sony, Xperia 1 V, photos, device photo
+keywords: Sony Xperia 1 V, Sony Xperia 1 V photos, Sony Xperia 1 V device photo
 ---
 
 ## Sony Xperia 1 V's photos

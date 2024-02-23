@@ -1,18 +1,18 @@
 ---
 title: Htc U23's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Htc
-  - U23
+  - htc
+  - u23
   - photos
   - device photo
 categories: 
-  - Htc
-  - U23
+  - htc
+  - u23
   - photos
   - device photo
 description: Htc U23's photos
-keywords: Htc, U23, photos, device photo
+keywords: Htc U23, Htc U23 photos, Htc U23 device photo
 ---
 
 ## Htc U23's photos

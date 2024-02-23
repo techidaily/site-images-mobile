@@ -1,18 +1,18 @@
 ---
 title: Oppo A79 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - A79 5G
+  - oppo
+  - a79 5g
   - photos
   - device photo
 categories: 
-  - Oppo
-  - A79 5G
+  - oppo
+  - a79 5g
   - photos
   - device photo
 description: Oppo A79 5G's photos
-keywords: Oppo, A79 5G, photos, device photo
+keywords: Oppo A79 5G, Oppo A79 5G photos, Oppo A79 5G device photo
 ---
 
 ## Oppo A79 5G's photos

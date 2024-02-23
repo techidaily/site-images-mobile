@@ -1,18 +1,18 @@
 ---
 title: Oneplus 12's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oneplus
+  - oneplus
   - 12
   - photos
   - device photo
 categories: 
-  - Oneplus
+  - oneplus
   - 12
   - photos
   - device photo
 description: Oneplus 12's photos
-keywords: Oneplus, 12, photos, device photo
+keywords: Oneplus 12, Oneplus 12 photos, Oneplus 12 device photo
 ---
 
 ## Oneplus 12's photos

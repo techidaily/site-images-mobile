@@ -1,18 +1,18 @@
 ---
 title: Realme 11 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - 11 Pro
+  - realme
+  - 11 pro
   - photos
   - device photo
 categories: 
-  - Realme
-  - 11 Pro
+  - realme
+  - 11 pro
   - photos
   - device photo
 description: Realme 11 Pro's photos
-keywords: Realme, 11 Pro, photos, device photo
+keywords: Realme 11 Pro, Realme 11 Pro photos, Realme 11 Pro device photo
 ---
 
 ## Realme 11 Pro's photos

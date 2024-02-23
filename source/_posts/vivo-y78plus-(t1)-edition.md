@@ -1,18 +1,18 @@
 ---
 title: Vivo Y78+ (T1) Edition's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - Y78+ (T1) Edition
+  - vivo
+  - y78+ (t1) edition
   - photos
   - device photo
 categories: 
-  - Vivo
-  - Y78+ (T1) Edition
+  - vivo
+  - y78+ (t1) edition
   - photos
   - device photo
 description: Vivo Y78+ (T1) Edition's photos
-keywords: Vivo, Y78+ (T1) Edition, photos, device photo
+keywords: Vivo Y78+ (T1) Edition, Vivo Y78+ (T1) Edition photos, Vivo Y78+ (T1) Edition device photo
 ---
 
 ## Vivo Y78+ (T1) Edition's photos

@@ -1,18 +1,18 @@
 ---
 title: Xiaomi Redmi K70 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - Redmi K70 Pro
+  - xiaomi
+  - redmi k70 pro
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - Redmi K70 Pro
+  - xiaomi
+  - redmi k70 pro
   - photos
   - device photo
 description: Xiaomi Redmi K70 Pro's photos
-keywords: Xiaomi, Redmi K70 Pro, photos, device photo
+keywords: Xiaomi Redmi K70 Pro, Xiaomi Redmi K70 Pro photos, Xiaomi Redmi K70 Pro device photo
 ---
 
 ## Xiaomi Redmi K70 Pro's photos

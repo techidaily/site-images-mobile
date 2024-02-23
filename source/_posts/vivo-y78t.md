@@ -1,18 +1,18 @@
 ---
 title: Vivo Y78t's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - Y78t
+  - vivo
+  - y78t
   - photos
   - device photo
 categories: 
-  - Vivo
-  - Y78t
+  - vivo
+  - y78t
   - photos
   - device photo
 description: Vivo Y78t's photos
-keywords: Vivo, Y78t, photos, device photo
+keywords: Vivo Y78t, Vivo Y78t photos, Vivo Y78t device photo
 ---
 
 ## Vivo Y78t's photos

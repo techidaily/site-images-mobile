@@ -1,18 +1,18 @@
 ---
 title: Tecno Spark 10 4G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Tecno
-  - Spark 10 4G
+  - tecno
+  - spark 10 4g
   - photos
   - device photo
 categories: 
-  - Tecno
-  - Spark 10 4G
+  - tecno
+  - spark 10 4g
   - photos
   - device photo
 description: Tecno Spark 10 4G's photos
-keywords: Tecno, Spark 10 4G, photos, device photo
+keywords: Tecno Spark 10 4G, Tecno Spark 10 4G photos, Tecno Spark 10 4G device photo
 ---
 
 ## Tecno Spark 10 4G's photos

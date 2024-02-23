@@ -1,18 +1,18 @@
 ---
 title: Vivo X Flip's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - X Flip
+  - vivo
+  - x flip
   - photos
   - device photo
 categories: 
-  - Vivo
-  - X Flip
+  - vivo
+  - x flip
   - photos
   - device photo
 description: Vivo X Flip's photos
-keywords: Vivo, X Flip, photos, device photo
+keywords: Vivo X Flip, Vivo X Flip photos, Vivo X Flip device photo
 ---
 
 ## Vivo X Flip's photos

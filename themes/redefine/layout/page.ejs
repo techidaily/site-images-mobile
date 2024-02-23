@@ -29,6 +29,7 @@
                     <%- partial('archive-content') %>
 
                 <% } else if (is_post()) { %>
+		    <%- partial('_partials/promote/seo-w728') %>
                     <%- partial('article-content') %>
 
                 <% } else if (is_category()) { %>
@@ -36,10 +37,10 @@
 
                 <% } else if (is_tag()) { %>
                     <%- partial('tag-content') %>
-
+	            <%- partial('_partials/ads/adv-bottom') %>
                 <% } else if (page.title === 'category' || page.title === 'categories') { %>
                     <%- partial('category-list') %>
-
+		    <%- partial('_partials/ads/adv-bottom') %>
                 <% } else if (page.title === 'tag' || page.title === 'tags') { %>
                     <%- partial('_widgets/tagcloud') %>
 
@@ -49,8 +50,10 @@
 
                 <% } else { %>
                     <%- partial('_partials/page-template') %>
-
+                    <%- partial('_partials/ads/adv-bottom') %>
                 <% } %>
+
+		<%- partial('_partials/promote/seo-en90') %>
 
             </div>
 

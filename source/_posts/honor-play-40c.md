@@ -1,18 +1,18 @@
 ---
 title: Honor Play 40C's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - Play 40C
+  - honor
+  - play 40c
   - photos
   - device photo
 categories: 
-  - Honor
-  - Play 40C
+  - honor
+  - play 40c
   - photos
   - device photo
 description: Honor Play 40C's photos
-keywords: Honor, Play 40C, photos, device photo
+keywords: Honor Play 40C, Honor Play 40C photos, Honor Play 40C device photo
 ---
 
 ## Honor Play 40C's photos

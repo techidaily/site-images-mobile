@@ -1,18 +1,18 @@
 ---
 title: Oppo Reno 10 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - Reno 10 5G
+  - oppo
+  - reno 10 5g
   - photos
   - device photo
 categories: 
-  - Oppo
-  - Reno 10 5G
+  - oppo
+  - reno 10 5g
   - photos
   - device photo
 description: Oppo Reno 10 5G's photos
-keywords: Oppo, Reno 10 5G, photos, device photo
+keywords: Oppo Reno 10 5G, Oppo Reno 10 5G photos, Oppo Reno 10 5G device photo
 ---
 
 ## Oppo Reno 10 5G's photos

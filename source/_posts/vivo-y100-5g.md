@@ -1,18 +1,18 @@
 ---
 title: Vivo Y100 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - Y100 5G
+  - vivo
+  - y100 5g
   - photos
   - device photo
 categories: 
-  - Vivo
-  - Y100 5G
+  - vivo
+  - y100 5g
   - photos
   - device photo
 description: Vivo Y100 5G's photos
-keywords: Vivo, Y100 5G, photos, device photo
+keywords: Vivo Y100 5G, Vivo Y100 5G photos, Vivo Y100 5G device photo
 ---
 
 ## Vivo Y100 5G's photos

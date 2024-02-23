@@ -1,18 +1,18 @@
 ---
 title: Vivo X90S's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - X90S
+  - vivo
+  - x90s
   - photos
   - device photo
 categories: 
-  - Vivo
-  - X90S
+  - vivo
+  - x90s
   - photos
   - device photo
 description: Vivo X90S's photos
-keywords: Vivo, X90S, photos, device photo
+keywords: Vivo X90S, Vivo X90S photos, Vivo X90S device photo
 ---
 
 ## Vivo X90S's photos

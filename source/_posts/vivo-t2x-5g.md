@@ -1,18 +1,18 @@
 ---
 title: Vivo T2x 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - T2x 5G
+  - vivo
+  - t2x 5g
   - photos
   - device photo
 categories: 
-  - Vivo
-  - T2x 5G
+  - vivo
+  - t2x 5g
   - photos
   - device photo
 description: Vivo T2x 5G's photos
-keywords: Vivo, T2x 5G, photos, device photo
+keywords: Vivo T2x 5G, Vivo T2x 5G photos, Vivo T2x 5G device photo
 ---
 
 ## Vivo T2x 5G's photos

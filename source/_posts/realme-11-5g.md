@@ -1,18 +1,18 @@
 ---
 title: Realme 11 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - 11 5G
+  - realme
+  - 11 5g
   - photos
   - device photo
 categories: 
-  - Realme
-  - 11 5G
+  - realme
+  - 11 5g
   - photos
   - device photo
 description: Realme 11 5G's photos
-keywords: Realme, 11 5G, photos, device photo
+keywords: Realme 11 5G, Realme 11 5G photos, Realme 11 5G device photo
 ---
 
 ## Realme 11 5G's photos

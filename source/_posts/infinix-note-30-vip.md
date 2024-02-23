@@ -1,18 +1,18 @@
 ---
 title: Infinix Note 30 VIP's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - Note 30 VIP
+  - infinix
+  - note 30 vip
   - photos
   - device photo
 categories: 
-  - Infinix
-  - Note 30 VIP
+  - infinix
+  - note 30 vip
   - photos
   - device photo
 description: Infinix Note 30 VIP's photos
-keywords: Infinix, Note 30 VIP, photos, device photo
+keywords: Infinix Note 30 VIP, Infinix Note 30 VIP photos, Infinix Note 30 VIP device photo
 ---
 
 ## Infinix Note 30 VIP's photos

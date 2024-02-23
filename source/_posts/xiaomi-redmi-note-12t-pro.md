@@ -1,18 +1,18 @@
 ---
 title: Xiaomi Redmi Note 12T Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - Redmi Note 12T Pro
+  - xiaomi
+  - redmi note 12t pro
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - Redmi Note 12T Pro
+  - xiaomi
+  - redmi note 12t pro
   - photos
   - device photo
 description: Xiaomi Redmi Note 12T Pro's photos
-keywords: Xiaomi, Redmi Note 12T Pro, photos, device photo
+keywords: Xiaomi Redmi Note 12T Pro, Xiaomi Redmi Note 12T Pro photos, Xiaomi Redmi Note 12T Pro device photo
 ---
 
 ## Xiaomi Redmi Note 12T Pro's photos

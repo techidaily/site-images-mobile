@@ -1,18 +1,18 @@
 ---
 title: Motorola Edge 40 Neo's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Motorola
-  - Edge 40 Neo
+  - motorola
+  - edge 40 neo
   - photos
   - device photo
 categories: 
-  - Motorola
-  - Edge 40 Neo
+  - motorola
+  - edge 40 neo
   - photos
   - device photo
 description: Motorola Edge 40 Neo's photos
-keywords: Motorola, Edge 40 Neo, photos, device photo
+keywords: Motorola Edge 40 Neo, Motorola Edge 40 Neo photos, Motorola Edge 40 Neo device photo
 ---
 
 ## Motorola Edge 40 Neo's photos

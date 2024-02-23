@@ -1,18 +1,18 @@
 ---
 title: Honor 100 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - 100 Pro
+  - honor
+  - 100 pro
   - photos
   - device photo
 categories: 
-  - Honor
-  - 100 Pro
+  - honor
+  - 100 pro
   - photos
   - device photo
 description: Honor 100 Pro's photos
-keywords: Honor, 100 Pro, photos, device photo
+keywords: Honor 100 Pro, Honor 100 Pro photos, Honor 100 Pro device photo
 ---
 
 ## Honor 100 Pro's photos

@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy XCover 7's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy XCover 7
+  - samsung
+  - galaxy xcover 7
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy XCover 7
+  - samsung
+  - galaxy xcover 7
   - photos
   - device photo
 description: Samsung Galaxy XCover 7's photos
-keywords: Samsung, Galaxy XCover 7, photos, device photo
+keywords: Samsung Galaxy XCover 7, Samsung Galaxy XCover 7 photos, Samsung Galaxy XCover 7 device photo
 ---
 
 ## Samsung Galaxy XCover 7's photos

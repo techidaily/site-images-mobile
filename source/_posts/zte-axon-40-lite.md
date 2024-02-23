@@ -1,18 +1,18 @@
 ---
 title: Zte Axon 40 Lite's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Zte
-  - Axon 40 Lite
+  - zte
+  - axon 40 lite
   - photos
   - device photo
 categories: 
-  - Zte
-  - Axon 40 Lite
+  - zte
+  - axon 40 lite
   - photos
   - device photo
 description: Zte Axon 40 Lite's photos
-keywords: Zte, Axon 40 Lite, photos, device photo
+keywords: Zte Axon 40 Lite, Zte Axon 40 Lite photos, Zte Axon 40 Lite device photo
 ---
 
 ## Zte Axon 40 Lite's photos

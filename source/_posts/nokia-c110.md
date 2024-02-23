@@ -1,18 +1,18 @@
 ---
 title: Nokia C110's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nokia
-  - C110
+  - nokia
+  - c110
   - photos
   - device photo
 categories: 
-  - Nokia
-  - C110
+  - nokia
+  - c110
   - photos
   - device photo
 description: Nokia C110's photos
-keywords: Nokia, C110, photos, device photo
+keywords: Nokia C110, Nokia C110 photos, Nokia C110 device photo
 ---
 
 ## Nokia C110's photos

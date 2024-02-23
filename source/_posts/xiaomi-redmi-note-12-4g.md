@@ -1,18 +1,18 @@
 ---
 title: Xiaomi Redmi Note 12 4G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - Redmi Note 12 4G
+  - xiaomi
+  - redmi note 12 4g
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - Redmi Note 12 4G
+  - xiaomi
+  - redmi note 12 4g
   - photos
   - device photo
 description: Xiaomi Redmi Note 12 4G's photos
-keywords: Xiaomi, Redmi Note 12 4G, photos, device photo
+keywords: Xiaomi Redmi Note 12 4G, Xiaomi Redmi Note 12 4G photos, Xiaomi Redmi Note 12 4G device photo
 ---
 
 ## Xiaomi Redmi Note 12 4G's photos

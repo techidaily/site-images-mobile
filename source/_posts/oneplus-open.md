@@ -1,18 +1,18 @@
 ---
 title: Oneplus Open's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oneplus
-  - Open
+  - oneplus
+  - open
   - photos
   - device photo
 categories: 
-  - Oneplus
-  - Open
+  - oneplus
+  - open
   - photos
   - device photo
 description: Oneplus Open's photos
-keywords: Oneplus, Open, photos, device photo
+keywords: Oneplus Open, Oneplus Open photos, Oneplus Open device photo
 ---
 
 ## Oneplus Open's photos

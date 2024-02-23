@@ -1,18 +1,18 @@
 ---
 title: Nokia G42 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nokia
-  - G42 5G
+  - nokia
+  - g42 5g
   - photos
   - device photo
 categories: 
-  - Nokia
-  - G42 5G
+  - nokia
+  - g42 5g
   - photos
   - device photo
 description: Nokia G42 5G's photos
-keywords: Nokia, G42 5G, photos, device photo
+keywords: Nokia G42 5G, Nokia G42 5G photos, Nokia G42 5G device photo
 ---
 
 ## Nokia G42 5G's photos

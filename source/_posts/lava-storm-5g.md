@@ -1,18 +1,18 @@
 ---
 title: Lava Storm 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Lava
-  - Storm 5G
+  - lava
+  - storm 5g
   - photos
   - device photo
 categories: 
-  - Lava
-  - Storm 5G
+  - lava
+  - storm 5g
   - photos
   - device photo
 description: Lava Storm 5G's photos
-keywords: Lava, Storm 5G, photos, device photo
+keywords: Lava Storm 5G, Lava Storm 5G photos, Lava Storm 5G device photo
 ---
 
 ## Lava Storm 5G's photos

@@ -1,18 +1,18 @@
 ---
 title: Infinix Smart 7 HD's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - Smart 7 HD
+  - infinix
+  - smart 7 hd
   - photos
   - device photo
 categories: 
-  - Infinix
-  - Smart 7 HD
+  - infinix
+  - smart 7 hd
   - photos
   - device photo
 description: Infinix Smart 7 HD's photos
-keywords: Infinix, Smart 7 HD, photos, device photo
+keywords: Infinix Smart 7 HD, Infinix Smart 7 HD photos, Infinix Smart 7 HD device photo
 ---
 
 ## Infinix Smart 7 HD's photos

@@ -1,18 +1,18 @@
 ---
 title: Vivo Y100A's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - Y100A
+  - vivo
+  - y100a
   - photos
   - device photo
 categories: 
-  - Vivo
-  - Y100A
+  - vivo
+  - y100a
   - photos
   - device photo
 description: Vivo Y100A's photos
-keywords: Vivo, Y100A, photos, device photo
+keywords: Vivo Y100A, Vivo Y100A photos, Vivo Y100A device photo
 ---
 
 ## Vivo Y100A's photos

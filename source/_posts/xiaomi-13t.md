@@ -1,18 +1,18 @@
 ---
 title: Xiaomi 13T's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - 13T
+  - xiaomi
+  - 13t
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - 13T
+  - xiaomi
+  - 13t
   - photos
   - device photo
 description: Xiaomi 13T's photos
-keywords: Xiaomi, 13T, photos, device photo
+keywords: Xiaomi 13T, Xiaomi 13T photos, Xiaomi 13T device photo
 ---
 
 ## Xiaomi 13T's photos

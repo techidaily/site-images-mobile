@@ -1,18 +1,18 @@
 ---
 title: Nubia Red Magic 9 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nubia
-  - Red Magic 9 Pro
+  - nubia
+  - red magic 9 pro
   - photos
   - device photo
 categories: 
-  - Nubia
-  - Red Magic 9 Pro
+  - nubia
+  - red magic 9 pro
   - photos
   - device photo
 description: Nubia Red Magic 9 Pro's photos
-keywords: Nubia, Red Magic 9 Pro, photos, device photo
+keywords: Nubia Red Magic 9 Pro, Nubia Red Magic 9 Pro photos, Nubia Red Magic 9 Pro device photo
 ---
 
 ## Nubia Red Magic 9 Pro's photos

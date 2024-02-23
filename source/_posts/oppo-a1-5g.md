@@ -1,18 +1,18 @@
 ---
 title: Oppo A1 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - A1 5G
+  - oppo
+  - a1 5g
   - photos
   - device photo
 categories: 
-  - Oppo
-  - A1 5G
+  - oppo
+  - a1 5g
   - photos
   - device photo
 description: Oppo A1 5G's photos
-keywords: Oppo, A1 5G, photos, device photo
+keywords: Oppo A1 5G, Oppo A1 5G photos, Oppo A1 5G device photo
 ---
 
 ## Oppo A1 5G's photos

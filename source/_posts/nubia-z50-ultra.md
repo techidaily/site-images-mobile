@@ -1,18 +1,18 @@
 ---
 title: Nubia Z50 Ultra's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nubia
-  - Z50 Ultra
+  - nubia
+  - z50 ultra
   - photos
   - device photo
 categories: 
-  - Nubia
-  - Z50 Ultra
+  - nubia
+  - z50 ultra
   - photos
   - device photo
 description: Nubia Z50 Ultra's photos
-keywords: Nubia, Z50 Ultra, photos, device photo
+keywords: Nubia Z50 Ultra, Nubia Z50 Ultra photos, Nubia Z50 Ultra device photo
 ---
 
 ## Nubia Z50 Ultra's photos

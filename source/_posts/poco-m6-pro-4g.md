@@ -1,18 +1,18 @@
 ---
 title: Poco M6 Pro 4G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Poco
-  - M6 Pro 4G
+  - poco
+  - m6 pro 4g
   - photos
   - device photo
 categories: 
-  - Poco
-  - M6 Pro 4G
+  - poco
+  - m6 pro 4g
   - photos
   - device photo
 description: Poco M6 Pro 4G's photos
-keywords: Poco, M6 Pro 4G, photos, device photo
+keywords: Poco M6 Pro 4G, Poco M6 Pro 4G photos, Poco M6 Pro 4G device photo
 ---
 
 ## Poco M6 Pro 4G's photos

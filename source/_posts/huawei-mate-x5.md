@@ -1,18 +1,18 @@
 ---
 title: Huawei Mate X5's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Huawei
-  - Mate X5
+  - huawei
+  - mate x5
   - photos
   - device photo
 categories: 
-  - Huawei
-  - Mate X5
+  - huawei
+  - mate x5
   - photos
   - device photo
 description: Huawei Mate X5's photos
-keywords: Huawei, Mate X5, photos, device photo
+keywords: Huawei Mate X5, Huawei Mate X5 photos, Huawei Mate X5 device photo
 ---
 
 ## Huawei Mate X5's photos

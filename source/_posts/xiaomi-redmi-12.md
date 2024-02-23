@@ -1,18 +1,18 @@
 ---
 title: Xiaomi Redmi 12's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - Redmi 12
+  - xiaomi
+  - redmi 12
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - Redmi 12
+  - xiaomi
+  - redmi 12
   - photos
   - device photo
 description: Xiaomi Redmi 12's photos
-keywords: Xiaomi, Redmi 12, photos, device photo
+keywords: Xiaomi Redmi 12, Xiaomi Redmi 12 photos, Xiaomi Redmi 12 device photo
 ---
 
 ## Xiaomi Redmi 12's photos

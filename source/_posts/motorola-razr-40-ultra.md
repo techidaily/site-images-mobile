@@ -1,18 +1,18 @@
 ---
 title: Motorola Razr 40 Ultra's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Motorola
-  - Razr 40 Ultra
+  - motorola
+  - razr 40 ultra
   - photos
   - device photo
 categories: 
-  - Motorola
-  - Razr 40 Ultra
+  - motorola
+  - razr 40 ultra
   - photos
   - device photo
 description: Motorola Razr 40 Ultra's photos
-keywords: Motorola, Razr 40 Ultra, photos, device photo
+keywords: Motorola Razr 40 Ultra, Motorola Razr 40 Ultra photos, Motorola Razr 40 Ultra device photo
 ---
 
 ## Motorola Razr 40 Ultra's photos

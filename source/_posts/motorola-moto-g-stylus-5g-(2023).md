@@ -1,18 +1,18 @@
 ---
 title: Motorola Moto G Stylus 5G (2023)'s photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Motorola
-  - Moto G Stylus 5G (2023)
+  - motorola
+  - moto g stylus 5g (2023)
   - photos
   - device photo
 categories: 
-  - Motorola
-  - Moto G Stylus 5G (2023)
+  - motorola
+  - moto g stylus 5g (2023)
   - photos
   - device photo
 description: Motorola Moto G Stylus 5G (2023)'s photos
-keywords: Motorola, Moto G Stylus 5G (2023), photos, device photo
+keywords: Motorola Moto G Stylus 5G (2023), Motorola Moto G Stylus 5G (2023) photos, Motorola Moto G Stylus 5G (2023) device photo
 ---
 
 ## Motorola Moto G Stylus 5G (2023)'s photos

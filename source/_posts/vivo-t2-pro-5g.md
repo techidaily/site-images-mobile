@@ -1,18 +1,18 @@
 ---
 title: Vivo T2 Pro 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - T2 Pro 5G
+  - vivo
+  - t2 pro 5g
   - photos
   - device photo
 categories: 
-  - Vivo
-  - T2 Pro 5G
+  - vivo
+  - t2 pro 5g
   - photos
   - device photo
 description: Vivo T2 Pro 5G's photos
-keywords: Vivo, T2 Pro 5G, photos, device photo
+keywords: Vivo T2 Pro 5G, Vivo T2 Pro 5G photos, Vivo T2 Pro 5G device photo
 ---
 
 ## Vivo T2 Pro 5G's photos

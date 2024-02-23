@@ -1,18 +1,18 @@
 ---
 title: Honor Magic 6 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - Magic 6 Pro
+  - honor
+  - magic 6 pro
   - photos
   - device photo
 categories: 
-  - Honor
-  - Magic 6 Pro
+  - honor
+  - magic 6 pro
   - photos
   - device photo
 description: Honor Magic 6 Pro's photos
-keywords: Honor, Magic 6 Pro, photos, device photo
+keywords: Honor Magic 6 Pro, Honor Magic 6 Pro photos, Honor Magic 6 Pro device photo
 ---
 
 ## Honor Magic 6 Pro's photos

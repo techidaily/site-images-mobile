@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy S23 FE's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy S23 FE
+  - samsung
+  - galaxy s23 fe
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy S23 FE
+  - samsung
+  - galaxy s23 fe
   - photos
   - device photo
 description: Samsung Galaxy S23 FE's photos
-keywords: Samsung, Galaxy S23 FE, photos, device photo
+keywords: Samsung Galaxy S23 FE, Samsung Galaxy S23 FE photos, Samsung Galaxy S23 FE device photo
 ---
 
 ## Samsung Galaxy S23 FE's photos

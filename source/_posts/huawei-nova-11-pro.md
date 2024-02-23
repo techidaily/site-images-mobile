@@ -1,18 +1,18 @@
 ---
 title: Huawei Nova 11 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Huawei
-  - Nova 11 Pro
+  - huawei
+  - nova 11 pro
   - photos
   - device photo
 categories: 
-  - Huawei
-  - Nova 11 Pro
+  - huawei
+  - nova 11 pro
   - photos
   - device photo
 description: Huawei Nova 11 Pro's photos
-keywords: Huawei, Nova 11 Pro, photos, device photo
+keywords: Huawei Nova 11 Pro, Huawei Nova 11 Pro photos, Huawei Nova 11 Pro device photo
 ---
 
 ## Huawei Nova 11 Pro's photos

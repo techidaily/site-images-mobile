@@ -1,18 +1,18 @@
 ---
 title: Itel A60s's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Itel
-  - A60s
+  - itel
+  - a60s
   - photos
   - device photo
 categories: 
-  - Itel
-  - A60s
+  - itel
+  - a60s
   - photos
   - device photo
 description: Itel A60s's photos
-keywords: Itel, A60s, photos, device photo
+keywords: Itel A60s, Itel A60s photos, Itel A60s device photo
 ---
 
 ## Itel A60s's photos

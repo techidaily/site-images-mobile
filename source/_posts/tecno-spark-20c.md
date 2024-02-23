@@ -1,18 +1,18 @@
 ---
 title: Tecno Spark 20C's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Tecno
-  - Spark 20C
+  - tecno
+  - spark 20c
   - photos
   - device photo
 categories: 
-  - Tecno
-  - Spark 20C
+  - tecno
+  - spark 20c
   - photos
   - device photo
 description: Tecno Spark 20C's photos
-keywords: Tecno, Spark 20C, photos, device photo
+keywords: Tecno Spark 20C, Tecno Spark 20C photos, Tecno Spark 20C device photo
 ---
 
 ## Tecno Spark 20C's photos

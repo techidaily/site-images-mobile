@@ -1,18 +1,18 @@
 ---
 title: Oneplus Ace 2 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oneplus
-  - Ace 2 Pro
+  - oneplus
+  - ace 2 pro
   - photos
   - device photo
 categories: 
-  - Oneplus
-  - Ace 2 Pro
+  - oneplus
+  - ace 2 pro
   - photos
   - device photo
 description: Oneplus Ace 2 Pro's photos
-keywords: Oneplus, Ace 2 Pro, photos, device photo
+keywords: Oneplus Ace 2 Pro, Oneplus Ace 2 Pro photos, Oneplus Ace 2 Pro device photo
 ---
 
 ## Oneplus Ace 2 Pro's photos

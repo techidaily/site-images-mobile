@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy S21 FE 5G (2023)'s photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy S21 FE 5G (2023)
+  - samsung
+  - galaxy s21 fe 5g (2023)
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy S21 FE 5G (2023)
+  - samsung
+  - galaxy s21 fe 5g (2023)
   - photos
   - device photo
 description: Samsung Galaxy S21 FE 5G (2023)'s photos
-keywords: Samsung, Galaxy S21 FE 5G (2023), photos, device photo
+keywords: Samsung Galaxy S21 FE 5G (2023), Samsung Galaxy S21 FE 5G (2023) photos, Samsung Galaxy S21 FE 5G (2023) device photo
 ---
 
 ## Samsung Galaxy S21 FE 5G (2023)'s photos

@@ -1,18 +1,18 @@
 ---
 title: Realme GT 5's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - GT 5
+  - realme
+  - gt 5
   - photos
   - device photo
 categories: 
-  - Realme
-  - GT 5
+  - realme
+  - gt 5
   - photos
   - device photo
 description: Realme GT 5's photos
-keywords: Realme, GT 5, photos, device photo
+keywords: Realme GT 5, Realme GT 5 photos, Realme GT 5 device photo
 ---
 
 ## Realme GT 5's photos

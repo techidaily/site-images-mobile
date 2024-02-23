@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy Z Flip 5's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy Z Flip 5
+  - samsung
+  - galaxy z flip 5
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy Z Flip 5
+  - samsung
+  - galaxy z flip 5
   - photos
   - device photo
 description: Samsung Galaxy Z Flip 5's photos
-keywords: Samsung, Galaxy Z Flip 5, photos, device photo
+keywords: Samsung Galaxy Z Flip 5, Samsung Galaxy Z Flip 5 photos, Samsung Galaxy Z Flip 5 device photo
 ---
 
 ## Samsung Galaxy Z Flip 5's photos

@@ -1,18 +1,18 @@
 ---
 title: Google Pixel 7a's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Google
-  - Pixel 7a
+  - google
+  - pixel 7a
   - photos
   - device photo
 categories: 
-  - Google
-  - Pixel 7a
+  - google
+  - pixel 7a
   - photos
   - device photo
 description: Google Pixel 7a's photos
-keywords: Google, Pixel 7a, photos, device photo
+keywords: Google Pixel 7a, Google Pixel 7a photos, Google Pixel 7a device photo
 ---
 
 ## Google Pixel 7a's photos

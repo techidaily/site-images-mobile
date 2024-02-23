@@ -1,18 +1,18 @@
 ---
 title: Honor Play 7T's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - Play 7T
+  - honor
+  - play 7t
   - photos
   - device photo
 categories: 
-  - Honor
-  - Play 7T
+  - honor
+  - play 7t
   - photos
   - device photo
 description: Honor Play 7T's photos
-keywords: Honor, Play 7T, photos, device photo
+keywords: Honor Play 7T, Honor Play 7T photos, Honor Play 7T device photo
 ---
 
 ## Honor Play 7T's photos

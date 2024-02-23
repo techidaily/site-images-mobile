@@ -1,18 +1,18 @@
 ---
 title: Nokia C300's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nokia
-  - C300
+  - nokia
+  - c300
   - photos
   - device photo
 categories: 
-  - Nokia
-  - C300
+  - nokia
+  - c300
   - photos
   - device photo
 description: Nokia C300's photos
-keywords: Nokia, C300, photos, device photo
+keywords: Nokia C300, Nokia C300 photos, Nokia C300 device photo
 ---
 
 ## Nokia C300's photos

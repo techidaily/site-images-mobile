@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy A05's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy A05
+  - samsung
+  - galaxy a05
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy A05
+  - samsung
+  - galaxy a05
   - photos
   - device photo
 description: Samsung Galaxy A05's photos
-keywords: Samsung, Galaxy A05, photos, device photo
+keywords: Samsung Galaxy A05, Samsung Galaxy A05 photos, Samsung Galaxy A05 device photo
 ---
 
 ## Samsung Galaxy A05's photos

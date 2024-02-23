@@ -1,18 +1,18 @@
 ---
 title: Vivo S17 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - S17 Pro
+  - vivo
+  - s17 pro
   - photos
   - device photo
 categories: 
-  - Vivo
-  - S17 Pro
+  - vivo
+  - s17 pro
   - photos
   - device photo
 description: Vivo S17 Pro's photos
-keywords: Vivo, S17 Pro, photos, device photo
+keywords: Vivo S17 Pro, Vivo S17 Pro photos, Vivo S17 Pro device photo
 ---
 
 ## Vivo S17 Pro's photos

@@ -1,18 +1,18 @@
 ---
 title: Vivo S17t's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - S17t
+  - vivo
+  - s17t
   - photos
   - device photo
 categories: 
-  - Vivo
-  - S17t
+  - vivo
+  - s17t
   - photos
   - device photo
 description: Vivo S17t's photos
-keywords: Vivo, S17t, photos, device photo
+keywords: Vivo S17t, Vivo S17t photos, Vivo S17t device photo
 ---
 
 ## Vivo S17t's photos

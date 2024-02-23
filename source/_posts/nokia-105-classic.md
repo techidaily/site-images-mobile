@@ -1,18 +1,18 @@
 ---
 title: Nokia 105 Classic's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nokia
-  - 105 Classic
+  - nokia
+  - 105 classic
   - photos
   - device photo
 categories: 
-  - Nokia
-  - 105 Classic
+  - nokia
+  - 105 classic
   - photos
   - device photo
 description: Nokia 105 Classic's photos
-keywords: Nokia, 105 Classic, photos, device photo
+keywords: Nokia 105 Classic, Nokia 105 Classic photos, Nokia 105 Classic device photo
 ---
 
 ## Nokia 105 Classic's photos

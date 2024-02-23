@@ -1,18 +1,18 @@
 ---
 title: Xiaomi 13 Ultra's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - 13 Ultra
+  - xiaomi
+  - 13 ultra
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - 13 Ultra
+  - xiaomi
+  - 13 ultra
   - photos
   - device photo
 description: Xiaomi 13 Ultra's photos
-keywords: Xiaomi, 13 Ultra, photos, device photo
+keywords: Xiaomi 13 Ultra, Xiaomi 13 Ultra photos, Xiaomi 13 Ultra device photo
 ---
 
 ## Xiaomi 13 Ultra's photos

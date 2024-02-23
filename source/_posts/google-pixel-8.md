@@ -1,18 +1,18 @@
 ---
 title: Google Pixel 8's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Google
-  - Pixel 8
+  - google
+  - pixel 8
   - photos
   - device photo
 categories: 
-  - Google
-  - Pixel 8
+  - google
+  - pixel 8
   - photos
   - device photo
 description: Google Pixel 8's photos
-keywords: Google, Pixel 8, photos, device photo
+keywords: Google Pixel 8, Google Pixel 8 photos, Google Pixel 8 device photo
 ---
 
 ## Google Pixel 8's photos

@@ -1,18 +1,18 @@
 ---
 title: Honor 90 Lite's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - 90 Lite
+  - honor
+  - 90 lite
   - photos
   - device photo
 categories: 
-  - Honor
-  - 90 Lite
+  - honor
+  - 90 lite
   - photos
   - device photo
 description: Honor 90 Lite's photos
-keywords: Honor, 90 Lite, photos, device photo
+keywords: Honor 90 Lite, Honor 90 Lite photos, Honor 90 Lite device photo
 ---
 
 ## Honor 90 Lite's photos

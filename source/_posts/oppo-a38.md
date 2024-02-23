@@ -1,18 +1,18 @@
 ---
 title: Oppo A38's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - A38
+  - oppo
+  - a38
   - photos
   - device photo
 categories: 
-  - Oppo
-  - A38
+  - oppo
+  - a38
   - photos
   - device photo
 description: Oppo A38's photos
-keywords: Oppo, A38, photos, device photo
+keywords: Oppo A38, Oppo A38 photos, Oppo A38 device photo
 ---
 
 ## Oppo A38's photos

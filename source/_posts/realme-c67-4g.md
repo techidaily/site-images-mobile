@@ -1,18 +1,18 @@
 ---
 title: Realme C67 4G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - C67 4G
+  - realme
+  - c67 4g
   - photos
   - device photo
 categories: 
-  - Realme
-  - C67 4G
+  - realme
+  - c67 4g
   - photos
   - device photo
 description: Realme C67 4G's photos
-keywords: Realme, C67 4G, photos, device photo
+keywords: Realme C67 4G, Realme C67 4G photos, Realme C67 4G device photo
 ---
 
 ## Realme C67 4G's photos

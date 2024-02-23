@@ -1,18 +1,18 @@
 ---
 title: Tecno Spark Go (2024)'s photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Tecno
-  - Spark Go (2024)
+  - tecno
+  - spark go (2024)
   - photos
   - device photo
 categories: 
-  - Tecno
-  - Spark Go (2024)
+  - tecno
+  - spark go (2024)
   - photos
   - device photo
 description: Tecno Spark Go (2024)'s photos
-keywords: Tecno, Spark Go (2024), photos, device photo
+keywords: Tecno Spark Go (2024), Tecno Spark Go (2024) photos, Tecno Spark Go (2024) device photo
 ---
 
 ## Tecno Spark Go (2024)'s photos

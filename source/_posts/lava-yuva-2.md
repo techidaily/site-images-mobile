@@ -1,18 +1,18 @@
 ---
 title: Lava Yuva 2's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Lava
-  - Yuva 2
+  - lava
+  - yuva 2
   - photos
   - device photo
 categories: 
-  - Lava
-  - Yuva 2
+  - lava
+  - yuva 2
   - photos
   - device photo
 description: Lava Yuva 2's photos
-keywords: Lava, Yuva 2, photos, device photo
+keywords: Lava Yuva 2, Lava Yuva 2 photos, Lava Yuva 2 device photo
 ---
 
 ## Lava Yuva 2's photos

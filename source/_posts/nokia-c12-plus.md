@@ -1,18 +1,18 @@
 ---
 title: Nokia C12 Plus's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nokia
-  - C12 Plus
+  - nokia
+  - c12 plus
   - photos
   - device photo
 categories: 
-  - Nokia
-  - C12 Plus
+  - nokia
+  - c12 plus
   - photos
   - device photo
 description: Nokia C12 Plus's photos
-keywords: Nokia, C12 Plus, photos, device photo
+keywords: Nokia C12 Plus, Nokia C12 Plus photos, Nokia C12 Plus device photo
 ---
 
 ## Nokia C12 Plus's photos

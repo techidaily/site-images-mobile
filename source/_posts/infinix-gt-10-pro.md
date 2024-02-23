@@ -1,18 +1,18 @@
 ---
 title: Infinix GT 10 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - GT 10 Pro
+  - infinix
+  - gt 10 pro
   - photos
   - device photo
 categories: 
-  - Infinix
-  - GT 10 Pro
+  - infinix
+  - gt 10 pro
   - photos
   - device photo
 description: Infinix GT 10 Pro's photos
-keywords: Infinix, GT 10 Pro, photos, device photo
+keywords: Infinix GT 10 Pro, Infinix GT 10 Pro photos, Infinix GT 10 Pro device photo
 ---
 
 ## Infinix GT 10 Pro's photos

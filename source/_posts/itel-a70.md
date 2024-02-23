@@ -1,18 +1,18 @@
 ---
 title: Itel A70's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Itel
-  - A70
+  - itel
+  - a70
   - photos
   - device photo
 categories: 
-  - Itel
-  - A70
+  - itel
+  - a70
   - photos
   - device photo
 description: Itel A70's photos
-keywords: Itel, A70, photos, device photo
+keywords: Itel A70, Itel A70 photos, Itel A70 device photo
 ---
 
 ## Itel A70's photos

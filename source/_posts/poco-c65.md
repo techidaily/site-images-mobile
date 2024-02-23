@@ -1,18 +1,18 @@
 ---
 title: Poco C65's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Poco
-  - C65
+  - poco
+  - c65
   - photos
   - device photo
 categories: 
-  - Poco
-  - C65
+  - poco
+  - c65
   - photos
   - device photo
 description: Poco C65's photos
-keywords: Poco, C65, photos, device photo
+keywords: Poco C65, Poco C65 photos, Poco C65 device photo
 ---
 
 ## Poco C65's photos

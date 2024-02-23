@@ -1,18 +1,18 @@
 ---
 title: Huawei P60 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Huawei
-  - P60 Pro
+  - huawei
+  - p60 pro
   - photos
   - device photo
 categories: 
-  - Huawei
-  - P60 Pro
+  - huawei
+  - p60 pro
   - photos
   - device photo
 description: Huawei P60 Pro's photos
-keywords: Huawei, P60 Pro, photos, device photo
+keywords: Huawei P60 Pro, Huawei P60 Pro photos, Huawei P60 Pro device photo
 ---
 
 ## Huawei P60 Pro's photos

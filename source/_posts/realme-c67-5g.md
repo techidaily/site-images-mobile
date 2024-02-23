@@ -1,18 +1,18 @@
 ---
 title: Realme C67 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - C67 5G
+  - realme
+  - c67 5g
   - photos
   - device photo
 categories: 
-  - Realme
-  - C67 5G
+  - realme
+  - c67 5g
   - photos
   - device photo
 description: Realme C67 5G's photos
-keywords: Realme, C67 5G, photos, device photo
+keywords: Realme C67 5G, Realme C67 5G photos, Realme C67 5G device photo
 ---
 
 ## Realme C67 5G's photos

@@ -1,18 +1,18 @@
 ---
 title: Apple iPhone 15's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Apple
-  - iPhone 15
+  - apple
+  - iphone 15
   - photos
   - device photo
 categories: 
-  - Apple
-  - iPhone 15
+  - apple
+  - iphone 15
   - photos
   - device photo
 description: Apple iPhone 15's photos
-keywords: Apple, iPhone 15, photos, device photo
+keywords: Apple iPhone 15, Apple iPhone 15 photos, Apple iPhone 15 device photo
 ---
 
 ## Apple iPhone 15's photos

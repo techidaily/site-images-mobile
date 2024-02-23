@@ -1,18 +1,18 @@
 ---
 title: Oneplus Nord 3 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oneplus
-  - Nord 3 5G
+  - oneplus
+  - nord 3 5g
   - photos
   - device photo
 categories: 
-  - Oneplus
-  - Nord 3 5G
+  - oneplus
+  - nord 3 5g
   - photos
   - device photo
 description: Oneplus Nord 3 5G's photos
-keywords: Oneplus, Nord 3 5G, photos, device photo
+keywords: Oneplus Nord 3 5G, Oneplus Nord 3 5G photos, Oneplus Nord 3 5G device photo
 ---
 
 ## Oneplus Nord 3 5G's photos

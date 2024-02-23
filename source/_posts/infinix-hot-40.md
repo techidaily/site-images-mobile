@@ -1,18 +1,18 @@
 ---
 title: Infinix Hot 40's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - Hot 40
+  - infinix
+  - hot 40
   - photos
   - device photo
 categories: 
-  - Infinix
-  - Hot 40
+  - infinix
+  - hot 40
   - photos
   - device photo
 description: Infinix Hot 40's photos
-keywords: Infinix, Hot 40, photos, device photo
+keywords: Infinix Hot 40, Infinix Hot 40 photos, Infinix Hot 40 device photo
 ---
 
 ## Infinix Hot 40's photos

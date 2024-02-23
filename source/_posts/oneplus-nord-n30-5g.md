@@ -1,18 +1,18 @@
 ---
 title: Oneplus Nord N30 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oneplus
-  - Nord N30 5G
+  - oneplus
+  - nord n30 5g
   - photos
   - device photo
 categories: 
-  - Oneplus
-  - Nord N30 5G
+  - oneplus
+  - nord n30 5g
   - photos
   - device photo
 description: Oneplus Nord N30 5G's photos
-keywords: Oneplus, Nord N30 5G, photos, device photo
+keywords: Oneplus Nord N30 5G, Oneplus Nord N30 5G photos, Oneplus Nord N30 5G device photo
 ---
 
 ## Oneplus Nord N30 5G's photos

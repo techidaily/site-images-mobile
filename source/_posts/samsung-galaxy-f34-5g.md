@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy F34 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy F34 5G
+  - samsung
+  - galaxy f34 5g
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy F34 5G
+  - samsung
+  - galaxy f34 5g
   - photos
   - device photo
 description: Samsung Galaxy F34 5G's photos
-keywords: Samsung, Galaxy F34 5G, photos, device photo
+keywords: Samsung Galaxy F34 5G, Samsung Galaxy F34 5G photos, Samsung Galaxy F34 5G device photo
 ---
 
 ## Samsung Galaxy F34 5G's photos

@@ -1,18 +1,18 @@
 ---
 title: Lava Yuva 3 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Lava
-  - Yuva 3 Pro
+  - lava
+  - yuva 3 pro
   - photos
   - device photo
 categories: 
-  - Lava
-  - Yuva 3 Pro
+  - lava
+  - yuva 3 pro
   - photos
   - device photo
 description: Lava Yuva 3 Pro's photos
-keywords: Lava, Yuva 3 Pro, photos, device photo
+keywords: Lava Yuva 3 Pro, Lava Yuva 3 Pro photos, Lava Yuva 3 Pro device photo
 ---
 
 ## Lava Yuva 3 Pro's photos

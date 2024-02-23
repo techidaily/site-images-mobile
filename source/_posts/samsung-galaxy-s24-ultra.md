@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy S24 Ultra's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy S24 Ultra
+  - samsung
+  - galaxy s24 ultra
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy S24 Ultra
+  - samsung
+  - galaxy s24 ultra
   - photos
   - device photo
 description: Samsung Galaxy S24 Ultra's photos
-keywords: Samsung, Galaxy S24 Ultra, photos, device photo
+keywords: Samsung Galaxy S24 Ultra, Samsung Galaxy S24 Ultra photos, Samsung Galaxy S24 Ultra device photo
 ---
 
 ## Samsung Galaxy S24 Ultra's photos

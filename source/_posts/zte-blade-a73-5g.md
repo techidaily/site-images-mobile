@@ -1,18 +1,18 @@
 ---
 title: Zte Blade A73 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Zte
-  - Blade A73 5G
+  - zte
+  - blade a73 5g
   - photos
   - device photo
 categories: 
-  - Zte
-  - Blade A73 5G
+  - zte
+  - blade a73 5g
   - photos
   - device photo
 description: Zte Blade A73 5G's photos
-keywords: Zte, Blade A73 5G, photos, device photo
+keywords: Zte Blade A73 5G, Zte Blade A73 5G photos, Zte Blade A73 5G device photo
 ---
 
 ## Zte Blade A73 5G's photos

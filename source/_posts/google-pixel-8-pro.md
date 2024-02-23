@@ -1,18 +1,18 @@
 ---
 title: Google Pixel 8 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Google
-  - Pixel 8 Pro
+  - google
+  - pixel 8 pro
   - photos
   - device photo
 categories: 
-  - Google
-  - Pixel 8 Pro
+  - google
+  - pixel 8 pro
   - photos
   - device photo
 description: Google Pixel 8 Pro's photos
-keywords: Google, Pixel 8 Pro, photos, device photo
+keywords: Google Pixel 8 Pro, Google Pixel 8 Pro photos, Google Pixel 8 Pro device photo
 ---
 
 ## Google Pixel 8 Pro's photos

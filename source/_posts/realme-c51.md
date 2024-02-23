@@ -1,18 +1,18 @@
 ---
 title: Realme C51's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - C51
+  - realme
+  - c51
   - photos
   - device photo
 categories: 
-  - Realme
-  - C51
+  - realme
+  - c51
   - photos
   - device photo
 description: Realme C51's photos
-keywords: Realme, C51, photos, device photo
+keywords: Realme C51, Realme C51 photos, Realme C51 device photo
 ---
 
 ## Realme C51's photos

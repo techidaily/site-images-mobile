@@ -1,18 +1,18 @@
 ---
 title: Asus ROG Phone 8 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Asus
-  - ROG Phone 8 Pro
+  - asus
+  - rog phone 8 pro
   - photos
   - device photo
 categories: 
-  - Asus
-  - ROG Phone 8 Pro
+  - asus
+  - rog phone 8 pro
   - photos
   - device photo
 description: Asus ROG Phone 8 Pro's photos
-keywords: Asus, ROG Phone 8 Pro, photos, device photo
+keywords: Asus ROG Phone 8 Pro, Asus ROG Phone 8 Pro photos, Asus ROG Phone 8 Pro device photo
 ---
 
 ## Asus ROG Phone 8 Pro's photos

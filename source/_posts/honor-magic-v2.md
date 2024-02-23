@@ -1,18 +1,18 @@
 ---
 title: Honor Magic V2's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - Magic V2
+  - honor
+  - magic v2
   - photos
   - device photo
 categories: 
-  - Honor
-  - Magic V2
+  - honor
+  - magic v2
   - photos
   - device photo
 description: Honor Magic V2's photos
-keywords: Honor, Magic V2, photos, device photo
+keywords: Honor Magic V2, Honor Magic V2 photos, Honor Magic V2 device photo
 ---
 
 ## Honor Magic V2's photos

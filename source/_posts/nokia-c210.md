@@ -1,18 +1,18 @@
 ---
 title: Nokia C210's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nokia
-  - C210
+  - nokia
+  - c210
   - photos
   - device photo
 categories: 
-  - Nokia
-  - C210
+  - nokia
+  - c210
   - photos
   - device photo
 description: Nokia C210's photos
-keywords: Nokia, C210, photos, device photo
+keywords: Nokia C210, Nokia C210 photos, Nokia C210 device photo
 ---
 
 ## Nokia C210's photos

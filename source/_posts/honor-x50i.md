@@ -1,18 +1,18 @@
 ---
 title: Honor X50i's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - X50i
+  - honor
+  - x50i
   - photos
   - device photo
 categories: 
-  - Honor
-  - X50i
+  - honor
+  - x50i
   - photos
   - device photo
 description: Honor X50i's photos
-keywords: Honor, X50i, photos, device photo
+keywords: Honor X50i, Honor X50i photos, Honor X50i device photo
 ---
 
 ## Honor X50i's photos

@@ -1,18 +1,18 @@
 ---
 title: Oneplus Ace 2V's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oneplus
-  - Ace 2V
+  - oneplus
+  - ace 2v
   - photos
   - device photo
 categories: 
-  - Oneplus
-  - Ace 2V
+  - oneplus
+  - ace 2v
   - photos
   - device photo
 description: Oneplus Ace 2V's photos
-keywords: Oneplus, Ace 2V, photos, device photo
+keywords: Oneplus Ace 2V, Oneplus Ace 2V photos, Oneplus Ace 2V device photo
 ---
 
 ## Oneplus Ace 2V's photos

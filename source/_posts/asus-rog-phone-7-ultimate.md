@@ -1,18 +1,18 @@
 ---
 title: Asus ROG Phone 7 Ultimate's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Asus
-  - ROG Phone 7 Ultimate
+  - asus
+  - rog phone 7 ultimate
   - photos
   - device photo
 categories: 
-  - Asus
-  - ROG Phone 7 Ultimate
+  - asus
+  - rog phone 7 ultimate
   - photos
   - device photo
 description: Asus ROG Phone 7 Ultimate's photos
-keywords: Asus, ROG Phone 7 Ultimate, photos, device photo
+keywords: Asus ROG Phone 7 Ultimate, Asus ROG Phone 7 Ultimate photos, Asus ROG Phone 7 Ultimate device photo
 ---
 
 ## Asus ROG Phone 7 Ultimate's photos

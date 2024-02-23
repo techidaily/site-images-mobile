@@ -1,18 +1,18 @@
 ---
 title: Honor Magic 6 Lite's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - Magic 6 Lite
+  - honor
+  - magic 6 lite
   - photos
   - device photo
 categories: 
-  - Honor
-  - Magic 6 Lite
+  - honor
+  - magic 6 lite
   - photos
   - device photo
 description: Honor Magic 6 Lite's photos
-keywords: Honor, Magic 6 Lite, photos, device photo
+keywords: Honor Magic 6 Lite, Honor Magic 6 Lite photos, Honor Magic 6 Lite device photo
 ---
 
 ## Honor Magic 6 Lite's photos

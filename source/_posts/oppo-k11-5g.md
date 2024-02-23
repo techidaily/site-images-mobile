@@ -1,18 +1,18 @@
 ---
 title: Oppo K11 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - K11 5G
+  - oppo
+  - k11 5g
   - photos
   - device photo
 categories: 
-  - Oppo
-  - K11 5G
+  - oppo
+  - k11 5g
   - photos
   - device photo
 description: Oppo K11 5G's photos
-keywords: Oppo, K11 5G, photos, device photo
+keywords: Oppo K11 5G, Oppo K11 5G photos, Oppo K11 5G device photo
 ---
 
 ## Oppo K11 5G's photos

@@ -1,18 +1,18 @@
 ---
 title: Nubia Red Magic 8S Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Nubia
-  - Red Magic 8S Pro
+  - nubia
+  - red magic 8s pro
   - photos
   - device photo
 categories: 
-  - Nubia
-  - Red Magic 8S Pro
+  - nubia
+  - red magic 8s pro
   - photos
   - device photo
 description: Nubia Red Magic 8S Pro's photos
-keywords: Nubia, Red Magic 8S Pro, photos, device photo
+keywords: Nubia Red Magic 8S Pro, Nubia Red Magic 8S Pro photos, Nubia Red Magic 8S Pro device photo
 ---
 
 ## Nubia Red Magic 8S Pro's photos

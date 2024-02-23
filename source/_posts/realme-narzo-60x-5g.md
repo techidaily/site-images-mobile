@@ -1,18 +1,18 @@
 ---
 title: Realme Narzo 60x 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - Narzo 60x 5G
+  - realme
+  - narzo 60x 5g
   - photos
   - device photo
 categories: 
-  - Realme
-  - Narzo 60x 5G
+  - realme
+  - narzo 60x 5g
   - photos
   - device photo
 description: Realme Narzo 60x 5G's photos
-keywords: Realme, Narzo 60x 5G, photos, device photo
+keywords: Realme Narzo 60x 5G, Realme Narzo 60x 5G photos, Realme Narzo 60x 5G device photo
 ---
 
 ## Realme Narzo 60x 5G's photos

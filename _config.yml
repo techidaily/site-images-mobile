@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechiDaily's mobile images
+title: MobileImages
 subtitle: 'Enjoy life easier but more creative!'
 description: 'TechiDaily Mobile Images, is a free mobile images site, where you can find the best mobile images, mobile wallpapers, mobile backgrounds'
 keywords: 'mobile images,  mobile photos, mobile pictures, mobile pics, mobile images free download, mobile images hd, mobile images download'
@@ -101,17 +101,17 @@ theme: redefine
 # SiteMap
 sitemap:
   path: 
-    - sitemap.xml
     - sitemap.txt
-  rel: false
-  tags: true
-  categories: true
+  rel: true
+  tags: false
+  categories: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/techidaily/site-images0-mobile
+  repo: https://lauer3912@github.com/techidaily/site-images0-mobile
   # example, https://github.com/hexojs/hexojs.github.io
   # 执行 hexo clean && hexo deploy 。
   branch: gh-pages
+  token: $GITHUB_DEPLOY_TOKEN

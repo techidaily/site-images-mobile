@@ -1,18 +1,18 @@
 ---
 title: Honor 90 GT's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - 90 GT
+  - honor
+  - 90 gt
   - photos
   - device photo
 categories: 
-  - Honor
-  - 90 GT
+  - honor
+  - 90 gt
   - photos
   - device photo
 description: Honor 90 GT's photos
-keywords: Honor, 90 GT, photos, device photo
+keywords: Honor 90 GT, Honor 90 GT photos, Honor 90 GT device photo
 ---
 
 ## Honor 90 GT's photos

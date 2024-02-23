@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy M54 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy M54 5G
+  - samsung
+  - galaxy m54 5g
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy M54 5G
+  - samsung
+  - galaxy m54 5g
   - photos
   - device photo
 description: Samsung Galaxy M54 5G's photos
-keywords: Samsung, Galaxy M54 5G, photos, device photo
+keywords: Samsung Galaxy M54 5G, Samsung Galaxy M54 5G photos, Samsung Galaxy M54 5G device photo
 ---
 
 ## Samsung Galaxy M54 5G's photos

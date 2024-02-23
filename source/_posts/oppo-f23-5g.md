@@ -1,18 +1,18 @@
 ---
 title: Oppo F23 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - F23 5G
+  - oppo
+  - f23 5g
   - photos
   - device photo
 categories: 
-  - Oppo
-  - F23 5G
+  - oppo
+  - f23 5g
   - photos
   - device photo
 description: Oppo F23 5G's photos
-keywords: Oppo, F23 5G, photos, device photo
+keywords: Oppo F23 5G, Oppo F23 5G photos, Oppo F23 5G device photo
 ---
 
 ## Oppo F23 5G's photos

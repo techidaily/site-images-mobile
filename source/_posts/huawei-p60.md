@@ -1,18 +1,18 @@
 ---
 title: Huawei P60's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Huawei
-  - P60
+  - huawei
+  - p60
   - photos
   - device photo
 categories: 
-  - Huawei
-  - P60
+  - huawei
+  - p60
   - photos
   - device photo
 description: Huawei P60's photos
-keywords: Huawei, P60, photos, device photo
+keywords: Huawei P60, Huawei P60 photos, Huawei P60 device photo
 ---
 
 ## Huawei P60's photos

@@ -1,18 +1,18 @@
 ---
 title: Samsung Galaxy S23 Tactical Edition's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Samsung
-  - Galaxy S23 Tactical Edition
+  - samsung
+  - galaxy s23 tactical edition
   - photos
   - device photo
 categories: 
-  - Samsung
-  - Galaxy S23 Tactical Edition
+  - samsung
+  - galaxy s23 tactical edition
   - photos
   - device photo
 description: Samsung Galaxy S23 Tactical Edition's photos
-keywords: Samsung, Galaxy S23 Tactical Edition, photos, device photo
+keywords: Samsung Galaxy S23 Tactical Edition, Samsung Galaxy S23 Tactical Edition photos, Samsung Galaxy S23 Tactical Edition device photo
 ---
 
 ## Samsung Galaxy S23 Tactical Edition's photos

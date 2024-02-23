@@ -1,18 +1,18 @@
 ---
 title: Vivo V29's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - V29
+  - vivo
+  - v29
   - photos
   - device photo
 categories: 
-  - Vivo
-  - V29
+  - vivo
+  - v29
   - photos
   - device photo
 description: Vivo V29's photos
-keywords: Vivo, V29, photos, device photo
+keywords: Vivo V29, Vivo V29 photos, Vivo V29 device photo
 ---
 
 ## Vivo V29's photos

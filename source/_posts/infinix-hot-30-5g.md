@@ -1,18 +1,18 @@
 ---
 title: Infinix Hot 30 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - Hot 30 5G
+  - infinix
+  - hot 30 5g
   - photos
   - device photo
 categories: 
-  - Infinix
-  - Hot 30 5G
+  - infinix
+  - hot 30 5g
   - photos
   - device photo
 description: Infinix Hot 30 5G's photos
-keywords: Infinix, Hot 30 5G, photos, device photo
+keywords: Infinix Hot 30 5G, Infinix Hot 30 5G photos, Infinix Hot 30 5G device photo
 ---
 
 ## Infinix Hot 30 5G's photos

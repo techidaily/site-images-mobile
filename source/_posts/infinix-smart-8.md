@@ -1,18 +1,18 @@
 ---
 title: Infinix Smart 8's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - Smart 8
+  - infinix
+  - smart 8
   - photos
   - device photo
 categories: 
-  - Infinix
-  - Smart 8
+  - infinix
+  - smart 8
   - photos
   - device photo
 description: Infinix Smart 8's photos
-keywords: Infinix, Smart 8, photos, device photo
+keywords: Infinix Smart 8, Infinix Smart 8 photos, Infinix Smart 8 device photo
 ---
 
 ## Infinix Smart 8's photos

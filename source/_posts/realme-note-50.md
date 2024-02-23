@@ -1,18 +1,18 @@
 ---
 title: Realme Note 50's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Realme
-  - Note 50
+  - realme
+  - note 50
   - photos
   - device photo
 categories: 
-  - Realme
-  - Note 50
+  - realme
+  - note 50
   - photos
   - device photo
 description: Realme Note 50's photos
-keywords: Realme, Note 50, photos, device photo
+keywords: Realme Note 50, Realme Note 50 photos, Realme Note 50 device photo
 ---
 
 ## Realme Note 50's photos

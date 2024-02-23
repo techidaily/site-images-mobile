@@ -1,18 +1,18 @@
 ---
 title: Infinix Note 30's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - Note 30
+  - infinix
+  - note 30
   - photos
   - device photo
 categories: 
-  - Infinix
-  - Note 30
+  - infinix
+  - note 30
   - photos
   - device photo
 description: Infinix Note 30's photos
-keywords: Infinix, Note 30, photos, device photo
+keywords: Infinix Note 30, Infinix Note 30 photos, Infinix Note 30 device photo
 ---
 
 ## Infinix Note 30's photos

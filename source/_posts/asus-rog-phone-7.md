@@ -1,18 +1,18 @@
 ---
 title: Asus ROG Phone 7's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Asus
-  - ROG Phone 7
+  - asus
+  - rog phone 7
   - photos
   - device photo
 categories: 
-  - Asus
-  - ROG Phone 7
+  - asus
+  - rog phone 7
   - photos
   - device photo
 description: Asus ROG Phone 7's photos
-keywords: Asus, ROG Phone 7, photos, device photo
+keywords: Asus ROG Phone 7, Asus ROG Phone 7 photos, Asus ROG Phone 7 device photo
 ---
 
 ## Asus ROG Phone 7's photos

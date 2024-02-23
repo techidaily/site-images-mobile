@@ -1,18 +1,18 @@
 ---
 title: Infinix Note 30 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Infinix
-  - Note 30 5G
+  - infinix
+  - note 30 5g
   - photos
   - device photo
 categories: 
-  - Infinix
-  - Note 30 5G
+  - infinix
+  - note 30 5g
   - photos
   - device photo
 description: Infinix Note 30 5G's photos
-keywords: Infinix, Note 30 5G, photos, device photo
+keywords: Infinix Note 30 5G, Infinix Note 30 5G photos, Infinix Note 30 5G device photo
 ---
 
 ## Infinix Note 30 5G's photos

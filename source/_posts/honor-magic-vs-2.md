@@ -1,18 +1,18 @@
 ---
 title: Honor Magic Vs 2's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - Magic Vs 2
+  - honor
+  - magic vs 2
   - photos
   - device photo
 categories: 
-  - Honor
-  - Magic Vs 2
+  - honor
+  - magic vs 2
   - photos
   - device photo
 description: Honor Magic Vs 2's photos
-keywords: Honor, Magic Vs 2, photos, device photo
+keywords: Honor Magic Vs 2, Honor Magic Vs 2 photos, Honor Magic Vs 2 device photo
 ---
 
 ## Honor Magic Vs 2's photos

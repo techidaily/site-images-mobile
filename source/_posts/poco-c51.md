@@ -1,18 +1,18 @@
 ---
 title: Poco C51's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Poco
-  - C51
+  - poco
+  - c51
   - photos
   - device photo
 categories: 
-  - Poco
-  - C51
+  - poco
+  - c51
   - photos
   - device photo
 description: Poco C51's photos
-keywords: Poco, C51, photos, device photo
+keywords: Poco C51, Poco C51 photos, Poco C51 device photo
 ---
 
 ## Poco C51's photos

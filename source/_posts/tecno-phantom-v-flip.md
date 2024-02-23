@@ -1,18 +1,18 @@
 ---
 title: Tecno Phantom V Flip's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Tecno
-  - Phantom V Flip
+  - tecno
+  - phantom v flip
   - photos
   - device photo
 categories: 
-  - Tecno
-  - Phantom V Flip
+  - tecno
+  - phantom v flip
   - photos
   - device photo
 description: Tecno Phantom V Flip's photos
-keywords: Tecno, Phantom V Flip, photos, device photo
+keywords: Tecno Phantom V Flip, Tecno Phantom V Flip photos, Tecno Phantom V Flip device photo
 ---
 
 ## Tecno Phantom V Flip's photos

@@ -1,18 +1,18 @@
 ---
 title: Poco X6 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Poco
-  - X6 Pro
+  - poco
+  - x6 pro
   - photos
   - device photo
 categories: 
-  - Poco
-  - X6 Pro
+  - poco
+  - x6 pro
   - photos
   - device photo
 description: Poco X6 Pro's photos
-keywords: Poco, X6 Pro, photos, device photo
+keywords: Poco X6 Pro, Poco X6 Pro photos, Poco X6 Pro device photo
 ---
 
 ## Poco X6 Pro's photos

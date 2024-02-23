@@ -1,18 +1,18 @@
 ---
 title: Honor Play 8T's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - Play 8T
+  - honor
+  - play 8t
   - photos
   - device photo
 categories: 
-  - Honor
-  - Play 8T
+  - honor
+  - play 8t
   - photos
   - device photo
 description: Honor Play 8T's photos
-keywords: Honor, Play 8T, photos, device photo
+keywords: Honor Play 8T, Honor Play 8T photos, Honor Play 8T device photo
 ---
 
 ## Honor Play 8T's photos

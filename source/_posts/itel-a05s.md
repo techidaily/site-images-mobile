@@ -1,18 +1,18 @@
 ---
 title: Itel A05s's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Itel
-  - A05s
+  - itel
+  - a05s
   - photos
   - device photo
 categories: 
-  - Itel
-  - A05s
+  - itel
+  - a05s
   - photos
   - device photo
 description: Itel A05s's photos
-keywords: Itel, A05s, photos, device photo
+keywords: Itel A05s, Itel A05s photos, Itel A05s device photo
 ---
 
 ## Itel A05s's photos

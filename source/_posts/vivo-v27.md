@@ -1,18 +1,18 @@
 ---
 title: Vivo V27's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - V27
+  - vivo
+  - v27
   - photos
   - device photo
 categories: 
-  - Vivo
-  - V27
+  - vivo
+  - v27
   - photos
   - device photo
 description: Vivo V27's photos
-keywords: Vivo, V27, photos, device photo
+keywords: Vivo V27, Vivo V27 photos, Vivo V27 device photo
 ---
 
 ## Vivo V27's photos

@@ -1,18 +1,18 @@
 ---
 title: Vivo Y78 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - Y78 5G
+  - vivo
+  - y78 5g
   - photos
   - device photo
 categories: 
-  - Vivo
-  - Y78 5G
+  - vivo
+  - y78 5g
   - photos
   - device photo
 description: Vivo Y78 5G's photos
-keywords: Vivo, Y78 5G, photos, device photo
+keywords: Vivo Y78 5G, Vivo Y78 5G photos, Vivo Y78 5G device photo
 ---
 
 ## Vivo Y78 5G's photos

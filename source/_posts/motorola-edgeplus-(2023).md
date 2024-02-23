@@ -1,18 +1,18 @@
 ---
 title: Motorola Edge+ (2023)'s photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Motorola
-  - Edge+ (2023)
+  - motorola
+  - edge+ (2023)
   - photos
   - device photo
 categories: 
-  - Motorola
-  - Edge+ (2023)
+  - motorola
+  - edge+ (2023)
   - photos
   - device photo
 description: Motorola Edge+ (2023)'s photos
-keywords: Motorola, Edge+ (2023), photos, device photo
+keywords: Motorola Edge+ (2023), Motorola Edge+ (2023) photos, Motorola Edge+ (2023) device photo
 ---
 
 ## Motorola Edge+ (2023)'s photos

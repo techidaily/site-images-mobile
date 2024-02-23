@@ -1,18 +1,18 @@
 ---
 title: Poco X5's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Poco
-  - X5
+  - poco
+  - x5
   - photos
   - device photo
 categories: 
-  - Poco
-  - X5
+  - poco
+  - x5
   - photos
   - device photo
 description: Poco X5's photos
-keywords: Poco, X5, photos, device photo
+keywords: Poco X5, Poco X5 photos, Poco X5 device photo
 ---
 
 ## Poco X5's photos

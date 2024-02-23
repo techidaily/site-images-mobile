@@ -1,18 +1,18 @@
 ---
 title: Vivo S18 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - S18 Pro
+  - vivo
+  - s18 pro
   - photos
   - device photo
 categories: 
-  - Vivo
-  - S18 Pro
+  - vivo
+  - s18 pro
   - photos
   - device photo
 description: Vivo S18 Pro's photos
-keywords: Vivo, S18 Pro, photos, device photo
+keywords: Vivo S18 Pro, Vivo S18 Pro photos, Vivo S18 Pro device photo
 ---
 
 ## Vivo S18 Pro's photos

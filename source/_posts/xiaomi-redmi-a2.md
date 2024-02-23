@@ -1,18 +1,18 @@
 ---
 title: Xiaomi Redmi A2's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Xiaomi
-  - Redmi A2
+  - xiaomi
+  - redmi a2
   - photos
   - device photo
 categories: 
-  - Xiaomi
-  - Redmi A2
+  - xiaomi
+  - redmi a2
   - photos
   - device photo
 description: Xiaomi Redmi A2's photos
-keywords: Xiaomi, Redmi A2, photos, device photo
+keywords: Xiaomi Redmi A2, Xiaomi Redmi A2 photos, Xiaomi Redmi A2 device photo
 ---
 
 ## Xiaomi Redmi A2's photos

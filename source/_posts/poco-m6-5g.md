@@ -1,18 +1,18 @@
 ---
 title: Poco M6 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Poco
-  - M6 5G
+  - poco
+  - m6 5g
   - photos
   - device photo
 categories: 
-  - Poco
-  - M6 5G
+  - poco
+  - m6 5g
   - photos
   - device photo
 description: Poco M6 5G's photos
-keywords: Poco, M6 5G, photos, device photo
+keywords: Poco M6 5G, Poco M6 5G photos, Poco M6 5G device photo
 ---
 
 ## Poco M6 5G's photos

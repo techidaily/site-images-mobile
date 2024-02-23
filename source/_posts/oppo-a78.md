@@ -1,18 +1,18 @@
 ---
 title: Oppo A78's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Oppo
-  - A78
+  - oppo
+  - a78
   - photos
   - device photo
 categories: 
-  - Oppo
-  - A78
+  - oppo
+  - a78
   - photos
   - device photo
 description: Oppo A78's photos
-keywords: Oppo, A78, photos, device photo
+keywords: Oppo A78, Oppo A78 photos, Oppo A78 device photo
 ---
 
 ## Oppo A78's photos

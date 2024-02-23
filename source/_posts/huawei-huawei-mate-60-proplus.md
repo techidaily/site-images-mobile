@@ -1,18 +1,18 @@
 ---
 title: Huawei Huawei Mate 60 Pro+'s photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Huawei
-  - Huawei Mate 60 Pro+
+  - huawei
+  - huawei mate 60 pro+
   - photos
   - device photo
 categories: 
-  - Huawei
-  - Huawei Mate 60 Pro+
+  - huawei
+  - huawei mate 60 pro+
   - photos
   - device photo
 description: Huawei Huawei Mate 60 Pro+'s photos
-keywords: Huawei, Huawei Mate 60 Pro+, photos, device photo
+keywords: Huawei Huawei Mate 60 Pro+, Huawei Huawei Mate 60 Pro+ photos, Huawei Huawei Mate 60 Pro+ device photo
 ---
 
 ## Huawei Huawei Mate 60 Pro+'s photos

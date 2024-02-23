@@ -1,18 +1,18 @@
 ---
 title: Vivo G2's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - G2
+  - vivo
+  - g2
   - photos
   - device photo
 categories: 
-  - Vivo
-  - G2
+  - vivo
+  - g2
   - photos
   - device photo
 description: Vivo G2's photos
-keywords: Vivo, G2, photos, device photo
+keywords: Vivo G2, Vivo G2 photos, Vivo G2 device photo
 ---
 
 ## Vivo G2's photos

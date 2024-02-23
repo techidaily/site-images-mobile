@@ -1,18 +1,18 @@
 ---
 title: Honor 90 Pro's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Honor
-  - 90 Pro
+  - honor
+  - 90 pro
   - photos
   - device photo
 categories: 
-  - Honor
-  - 90 Pro
+  - honor
+  - 90 pro
   - photos
   - device photo
 description: Honor 90 Pro's photos
-keywords: Honor, 90 Pro, photos, device photo
+keywords: Honor 90 Pro, Honor 90 Pro photos, Honor 90 Pro device photo
 ---
 
 ## Honor 90 Pro's photos

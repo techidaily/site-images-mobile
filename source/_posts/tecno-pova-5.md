@@ -1,18 +1,18 @@
 ---
 title: Tecno Pova 5's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Tecno
-  - Pova 5
+  - tecno
+  - pova 5
   - photos
   - device photo
 categories: 
-  - Tecno
-  - Pova 5
+  - tecno
+  - pova 5
   - photos
   - device photo
 description: Tecno Pova 5's photos
-keywords: Tecno, Pova 5, photos, device photo
+keywords: Tecno Pova 5, Tecno Pova 5 photos, Tecno Pova 5 device photo
 ---
 
 ## Tecno Pova 5's photos

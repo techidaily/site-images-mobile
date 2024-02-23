@@ -1,18 +1,18 @@
 ---
 title: Huawei Nova 12's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Huawei
-  - Nova 12
+  - huawei
+  - nova 12
   - photos
   - device photo
 categories: 
-  - Huawei
-  - Nova 12
+  - huawei
+  - nova 12
   - photos
   - device photo
 description: Huawei Nova 12's photos
-keywords: Huawei, Nova 12, photos, device photo
+keywords: Huawei Nova 12, Huawei Nova 12 photos, Huawei Nova 12 device photo
 ---
 
 ## Huawei Nova 12's photos

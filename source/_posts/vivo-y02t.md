@@ -1,18 +1,18 @@
 ---
 title: Vivo Y02T's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Vivo
-  - Y02T
+  - vivo
+  - y02t
   - photos
   - device photo
 categories: 
-  - Vivo
-  - Y02T
+  - vivo
+  - y02t
   - photos
   - device photo
 description: Vivo Y02T's photos
-keywords: Vivo, Y02T, photos, device photo
+keywords: Vivo Y02T, Vivo Y02T photos, Vivo Y02T device photo
 ---
 
 ## Vivo Y02T's photos

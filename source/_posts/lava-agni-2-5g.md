@@ -1,18 +1,18 @@
 ---
 title: Lava Agni 2 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Lava
-  - Agni 2 5G
+  - lava
+  - agni 2 5g
   - photos
   - device photo
 categories: 
-  - Lava
-  - Agni 2 5G
+  - lava
+  - agni 2 5g
   - photos
   - device photo
 description: Lava Agni 2 5G's photos
-keywords: Lava, Agni 2 5G, photos, device photo
+keywords: Lava Agni 2 5G, Lava Agni 2 5G photos, Lava Agni 2 5G device photo
 ---
 
 ## Lava Agni 2 5G's photos

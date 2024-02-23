@@ -1,18 +1,18 @@
 ---
 title: Motorola Moto G73 5G's photos
-date: 2024-02-02
+date: 2024-02-22
 tags: 
-  - Motorola
-  - Moto G73 5G
+  - motorola
+  - moto g73 5g
   - photos
   - device photo
 categories: 
-  - Motorola
-  - Moto G73 5G
+  - motorola
+  - moto g73 5g
   - photos
   - device photo
 description: Motorola Moto G73 5G's photos
-keywords: Motorola, Moto G73 5G, photos, device photo
+keywords: Motorola Moto G73 5G, Motorola Moto G73 5G photos, Motorola Moto G73 5G device photo
 ---
 
 ## Motorola Moto G73 5G's photos
