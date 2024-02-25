@@ -1,6 +1,6 @@
 ---
 title: Realme 10T 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - realme
   - 10t 5g

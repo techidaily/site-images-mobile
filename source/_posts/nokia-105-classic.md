@@ -1,6 +1,6 @@
 ---
 title: Nokia 105 Classic's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - nokia
   - 105 classic

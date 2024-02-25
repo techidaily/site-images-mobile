@@ -1,6 +1,6 @@
 ---
 title: Poco X5 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - poco
   - x5 pro

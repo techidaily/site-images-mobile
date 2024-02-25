@@ -1,6 +1,6 @@
 ---
 title: Asus ROG Phone 7's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - asus
   - rog phone 7

@@ -1,6 +1,6 @@
 ---
 title: Huawei P60 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - huawei
   - p60 pro

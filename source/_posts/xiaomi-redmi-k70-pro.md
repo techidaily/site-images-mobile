@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Redmi K70 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - xiaomi
   - redmi k70 pro

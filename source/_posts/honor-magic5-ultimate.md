@@ -1,6 +1,6 @@
 ---
 title: Honor Magic5 Ultimate's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - honor
   - magic5 ultimate

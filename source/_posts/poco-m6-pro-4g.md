@@ -1,6 +1,6 @@
 ---
 title: Poco M6 Pro 4G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - poco
   - m6 pro 4g

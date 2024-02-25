@@ -1,6 +1,6 @@
 ---
 title: Nokia C12 Plus's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - nokia
   - c12 plus

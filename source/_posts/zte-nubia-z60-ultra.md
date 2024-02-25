@@ -1,6 +1,6 @@
 ---
 title: Zte Nubia Z60 Ultra's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - zte
   - nubia z60 ultra

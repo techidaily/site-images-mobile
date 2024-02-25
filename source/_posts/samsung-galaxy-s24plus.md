@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy S24+'s photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - samsung
   - galaxy s24+

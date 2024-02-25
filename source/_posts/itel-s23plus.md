@@ -1,6 +1,6 @@
 ---
 title: Itel S23+'s photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - itel
   - s23+

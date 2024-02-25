@@ -1,6 +1,6 @@
 ---
 title: Vivo T2 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - vivo
   - t2 5g

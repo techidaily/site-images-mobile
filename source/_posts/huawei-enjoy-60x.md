@@ -1,6 +1,6 @@
 ---
 title: Huawei Enjoy 60X's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - huawei
   - enjoy 60x

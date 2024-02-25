@@ -1,6 +1,6 @@
 ---
 title: Infinix Smart 7 HD's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - infinix
   - smart 7 hd

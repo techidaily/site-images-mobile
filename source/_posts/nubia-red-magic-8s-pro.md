@@ -1,6 +1,6 @@
 ---
 title: Nubia Red Magic 8S Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - nubia
   - red magic 8s pro

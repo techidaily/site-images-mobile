@@ -1,6 +1,6 @@
 ---
 title: Oppo Find X7 Ultra's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - oppo
   - find x7 ultra

@@ -1,6 +1,6 @@
 ---
 title: Huawei Mate 60 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - huawei
   - mate 60 pro

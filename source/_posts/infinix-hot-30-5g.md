@@ -1,6 +1,6 @@
 ---
 title: Infinix Hot 30 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - infinix
   - hot 30 5g

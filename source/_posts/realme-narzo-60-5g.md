@@ -1,6 +1,6 @@
 ---
 title: Realme Narzo 60 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - realme
   - narzo 60 5g

@@ -1,6 +1,6 @@
 ---
 title: Vivo Y100i's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - vivo
   - y100i

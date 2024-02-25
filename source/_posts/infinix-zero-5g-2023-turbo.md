@@ -1,6 +1,6 @@
 ---
 title: Infinix Zero 5G 2023 Turbo's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - infinix
   - zero 5g 2023 turbo

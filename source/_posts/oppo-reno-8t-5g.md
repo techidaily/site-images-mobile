@@ -1,6 +1,6 @@
 ---
 title: Oppo Reno 8T 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - oppo
   - reno 8t 5g

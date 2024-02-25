@@ -1,6 +1,6 @@
 ---
 title: Oneplus Nord N30 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - oneplus
   - nord n30 5g

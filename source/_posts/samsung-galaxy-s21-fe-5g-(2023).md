@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy S21 FE 5G (2023)'s photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - samsung
   - galaxy s21 fe 5g (2023)

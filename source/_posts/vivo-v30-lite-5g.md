@@ -1,6 +1,6 @@
 ---
 title: Vivo V30 Lite 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - vivo
   - v30 lite 5g

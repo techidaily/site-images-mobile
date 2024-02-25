@@ -1,6 +1,6 @@
 ---
 title: Infinix Hot 40 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - infinix
   - hot 40 pro

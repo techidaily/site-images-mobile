@@ -1,6 +1,6 @@
 ---
 title: Motorola Defy 2's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - motorola
   - defy 2

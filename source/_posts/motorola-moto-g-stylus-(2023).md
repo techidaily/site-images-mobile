@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G Stylus (2023)'s photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - motorola
   - moto g stylus (2023)

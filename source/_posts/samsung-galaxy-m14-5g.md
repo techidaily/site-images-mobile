@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy M14 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - samsung
   - galaxy m14 5g

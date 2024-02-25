@@ -1,6 +1,6 @@
 ---
 title: Apple iPhone 15 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - apple
   - iphone 15 pro

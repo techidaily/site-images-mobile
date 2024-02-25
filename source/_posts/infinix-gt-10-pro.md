@@ -1,6 +1,6 @@
 ---
 title: Infinix GT 10 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - infinix
   - gt 10 pro

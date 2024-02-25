@@ -1,6 +1,6 @@
 ---
 title: Huawei Enjoy 70's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - huawei
   - enjoy 70

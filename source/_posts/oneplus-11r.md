@@ -1,6 +1,6 @@
 ---
 title: Oneplus 11R's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - oneplus
   - 11r

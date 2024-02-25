@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Redmi Note 12 4G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - xiaomi
   - redmi note 12 4g

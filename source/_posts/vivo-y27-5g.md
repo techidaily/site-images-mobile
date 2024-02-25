@@ -1,6 +1,6 @@
 ---
 title: Vivo Y27 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - vivo
   - y27 5g

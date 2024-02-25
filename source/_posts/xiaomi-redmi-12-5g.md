@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Redmi 12 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - xiaomi
   - redmi 12 5g

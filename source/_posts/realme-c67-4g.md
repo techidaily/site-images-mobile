@@ -1,6 +1,6 @@
 ---
 title: Realme C67 4G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - realme
   - c67 4g

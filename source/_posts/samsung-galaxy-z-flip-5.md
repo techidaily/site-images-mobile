@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy Z Flip 5's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - samsung
   - galaxy z flip 5

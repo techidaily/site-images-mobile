@@ -1,6 +1,6 @@
 ---
 title: Xiaomi 13T's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - xiaomi
   - 13t

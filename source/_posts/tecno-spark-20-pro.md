@@ -1,6 +1,6 @@
 ---
 title: Tecno Spark 20 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - tecno
   - spark 20 pro

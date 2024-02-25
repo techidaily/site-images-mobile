@@ -1,6 +1,6 @@
 ---
 title: Vivo V27 Pro's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - vivo
   - v27 pro

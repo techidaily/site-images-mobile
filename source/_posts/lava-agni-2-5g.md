@@ -1,6 +1,6 @@
 ---
 title: Lava Agni 2 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - lava
   - agni 2 5g

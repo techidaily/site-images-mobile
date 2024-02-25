@@ -1,6 +1,6 @@
 ---
 title: Google Pixel 7a's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - google
   - pixel 7a

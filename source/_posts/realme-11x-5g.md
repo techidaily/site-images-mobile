@@ -1,6 +1,6 @@
 ---
 title: Realme 11X 5G's photos
-date: 2024-02-22
+date: 2024-02-25
 tags: 
   - realme
   - 11x 5g
