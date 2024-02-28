@@ -10474,6 +10474,9 @@ div.tabs .tab-content .tab-pane .note:last-child {
 ul.ads li {
   list-style-type: none;
 }
+img {
+  cursor: pointer !important;
+}
 .margin-left-76px {
   margin-left: 76px;
 }
