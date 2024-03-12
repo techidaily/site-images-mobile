@@ -1,6 +1,6 @@
 ---
 title: Xiaomi 14 Ultra's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - 14 ultra
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi 14 Ultra's photos
 keywords: Xiaomi 14 Ultra, Xiaomi 14 Ultra photos, Xiaomi 14 Ultra device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-14-ultra/1.jpg
 ---
 
 ## Xiaomi 14 Ultra's photos

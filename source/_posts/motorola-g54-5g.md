@@ -1,6 +1,6 @@
 ---
 title: Motorola G54 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - g54 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola G54 5G's photos
 keywords: Motorola G54 5G, Motorola G54 5G photos, Motorola G54 5G device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-g54-5g/1.jpg
 ---
 
 ## Motorola G54 5G's photos

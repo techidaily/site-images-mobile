@@ -17,6 +17,9 @@ for (const file of mdFiles) {
     // get the file dir name
     const parentDir = dirname(file);
 
+    // get the file name
+    const fileName = basename(file);    
+
     // check in the dir, has 5 JPEG file. eg: 1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg
     let isSatisfy = true;
     for (let i = 1; i <= 5; i++) {
@@ -30,10 +33,11 @@ for (const file of mdFiles) {
         }
     }
 
-    if (!isSatisfy) continue;
-
-    // get the file name
-    const fileName = basename(file);
+    if (!isSatisfy) {
+        console.log(`remove ${file}`)
+        await unlink(file);
+        continue;
+    }
 
     // read the file content
     const content = await readFile(file, 'utf-8');

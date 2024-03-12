@@ -1,6 +1,6 @@
 ---
 title: Nokia 105 Classic's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - 105 classic
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia 105 Classic's photos
 keywords: Nokia 105 Classic, Nokia 105 Classic photos, Nokia 105 Classic device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-105-classic/1.jpg
 ---
 
 ## Nokia 105 Classic's photos

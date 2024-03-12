@@ -1,6 +1,6 @@
 ---
 title: Oneplus 11R's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oneplus
   - 11r
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oneplus 11R's photos
 keywords: Oneplus 11R, Oneplus 11R photos, Oneplus 11R device photo
+thumbnail: /images/best-assets/devices/oneplus/oneplus-11r/1.jpg
 ---
 
 ## Oneplus 11R's photos

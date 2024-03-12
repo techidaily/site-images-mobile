@@ -1,6 +1,6 @@
 ---
 title: Oneplus Nord N30 SE's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oneplus
   - nord n30 se
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oneplus Nord N30 SE's photos
 keywords: Oneplus Nord N30 SE, Oneplus Nord N30 SE photos, Oneplus Nord N30 SE device photo
+thumbnail: /images/best-assets/devices/oneplus/oneplus-nord-n30-se/1.jpg
 ---
 
 ## Oneplus Nord N30 SE's photos

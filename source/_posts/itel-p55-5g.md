@@ -1,6 +1,6 @@
 ---
 title: Itel P55 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - itel
   - p55 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Itel P55 5G's photos
 keywords: Itel P55 5G, Itel P55 5G photos, Itel P55 5G device photo
+thumbnail: /images/best-assets/devices/itel/itel-p55-5g/1.jpg
 ---
 
 ## Itel P55 5G's photos

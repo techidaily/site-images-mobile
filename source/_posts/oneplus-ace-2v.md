@@ -1,6 +1,6 @@
 ---
 title: Oneplus Ace 2V's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oneplus
   - ace 2v
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oneplus Ace 2V's photos
 keywords: Oneplus Ace 2V, Oneplus Ace 2V photos, Oneplus Ace 2V device photo
+thumbnail: /images/best-assets/devices/oneplus/oneplus-ace-2v/1.jpg
 ---
 
 ## Oneplus Ace 2V's photos

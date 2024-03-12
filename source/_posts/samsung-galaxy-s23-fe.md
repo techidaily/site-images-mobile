@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy S23 FE's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy s23 fe
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy S23 FE's photos
 keywords: Samsung Galaxy S23 FE, Samsung Galaxy S23 FE photos, Samsung Galaxy S23 FE device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-s23-fe/1.jpg
 ---
 
 ## Samsung Galaxy S23 FE's photos

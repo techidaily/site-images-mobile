@@ -1,6 +1,6 @@
 ---
 title: Honor Magic 5's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - magic 5
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor Magic 5's photos
 keywords: Honor Magic 5, Honor Magic 5 photos, Honor Magic 5 device photo
+thumbnail: /images/best-assets/devices/honor/honor-magic-5/1.jpg
 ---
 
 ## Honor Magic 5's photos

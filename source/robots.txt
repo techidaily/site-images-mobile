@@ -1,3 +1,21 @@
+Sitemap: https://img0mobiles.techidaily.com/sitemap.txt
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow: 
+
 User-agent: *
-Allow: /
-Sitemap: /sitemap.txt
+Disallow: /scripts
+Disallow: /public 
+Disallow: /css/ 
+Disallow: /images/ 
+Disallow: /content/ 
+Disallow: /assets/ 
+Disallow: /ui/ 
+Disallow: /js/ 
+Disallow: /lib/ 
+Disallow: /fonts/ 
+Disallow: /fontawesome/ 
+Disallow: /scripts/ 
+Disallow: /article_preview.html* 

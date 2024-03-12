@@ -1,6 +1,6 @@
 ---
 title: Oppo Reno 9A's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - reno 9a
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo Reno 9A's photos
 keywords: Oppo Reno 9A, Oppo Reno 9A photos, Oppo Reno 9A device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-reno-9a/1.jpg
 ---
 
 ## Oppo Reno 9A's photos

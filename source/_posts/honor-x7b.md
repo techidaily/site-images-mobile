@@ -1,6 +1,6 @@
 ---
 title: Honor X7b's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - x7b
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor X7b's photos
 keywords: Honor X7b, Honor X7b photos, Honor X7b device photo
+thumbnail: /images/best-assets/devices/honor/honor-x7b/1.jpg
 ---
 
 ## Honor X7b's photos

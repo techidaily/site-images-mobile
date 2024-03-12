@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova Y91's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - nova y91
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Nova Y91's photos
 keywords: Huawei Nova Y91, Huawei Nova Y91 photos, Huawei Nova Y91 device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-nova-y91/1.jpg
 ---
 
 ## Huawei Nova Y91's photos

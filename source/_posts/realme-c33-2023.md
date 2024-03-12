@@ -1,6 +1,6 @@
 ---
 title: Realme C33 2023's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - c33 2023
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme C33 2023's photos
 keywords: Realme C33 2023, Realme C33 2023 photos, Realme C33 2023 device photo
+thumbnail: /images/best-assets/devices/realme/realme-c33-2023/1.jpg
 ---
 
 ## Realme C33 2023's photos

@@ -1,6 +1,6 @@
 ---
 title: Vivo Y27s's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y27s
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y27s's photos
 keywords: Vivo Y27s, Vivo Y27s photos, Vivo Y27s device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y27s/1.jpg
 ---
 
 ## Vivo Y27s's photos

@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy A15 4G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy a15 4g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy A15 4G's photos
 keywords: Samsung Galaxy A15 4G, Samsung Galaxy A15 4G photos, Samsung Galaxy A15 4G device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-a15-4g/1.jpg
 ---
 
 ## Samsung Galaxy A15 4G's photos

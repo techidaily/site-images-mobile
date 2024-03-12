@@ -1,6 +1,6 @@
 ---
 title: Tecno Spark 10 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - tecno
   - spark 10 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Tecno Spark 10 Pro's photos
 keywords: Tecno Spark 10 Pro, Tecno Spark 10 Pro photos, Tecno Spark 10 Pro device photo
+thumbnail: /images/best-assets/devices/tecno/tecno-spark-10-pro/1.jpg
 ---
 
 ## Tecno Spark 10 Pro's photos

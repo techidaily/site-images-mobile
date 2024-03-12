@@ -1,6 +1,6 @@
 ---
 title: Vivo V30 Lite 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - v30 lite 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo V30 Lite 5G's photos
 keywords: Vivo V30 Lite 5G, Vivo V30 Lite 5G photos, Vivo V30 Lite 5G device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-v30-lite-5g/1.jpg
 ---
 
 ## Vivo V30 Lite 5G's photos

@@ -1,6 +1,6 @@
 ---
 title: Nokia G310's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - g310
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia G310's photos
 keywords: Nokia G310, Nokia G310 photos, Nokia G310 device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-g310/1.jpg
 ---
 
 ## Nokia G310's photos

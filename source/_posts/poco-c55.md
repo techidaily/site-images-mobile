@@ -1,6 +1,6 @@
 ---
 title: Poco C55's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - poco
   - c55
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Poco C55's photos
 keywords: Poco C55, Poco C55 photos, Poco C55 device photo
+thumbnail: /images/best-assets/devices/poco/poco-c55/1.jpg
 ---
 
 ## Poco C55's photos

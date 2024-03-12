@@ -1,6 +1,6 @@
 ---
 title: Huawei Mate 60's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - mate 60
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Mate 60's photos
 keywords: Huawei Mate 60, Huawei Mate 60 photos, Huawei Mate 60 device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-mate-60/1.jpg
 ---
 
 ## Huawei Mate 60's photos

@@ -1,6 +1,6 @@
 ---
 title: Tecno Phantom V Fold's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - tecno
   - phantom v fold
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Tecno Phantom V Fold's photos
 keywords: Tecno Phantom V Fold, Tecno Phantom V Fold photos, Tecno Phantom V Fold device photo
+thumbnail: /images/best-assets/devices/tecno/tecno-phantom-v-fold/1.jpg
 ---
 
 ## Tecno Phantom V Fold's photos

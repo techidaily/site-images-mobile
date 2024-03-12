@@ -1,6 +1,6 @@
 ---
 title: Oppo Find X7's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - find x7
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo Find X7's photos
 keywords: Oppo Find X7, Oppo Find X7 photos, Oppo Find X7 device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-find-x7/1.jpg
 ---
 
 ## Oppo Find X7's photos

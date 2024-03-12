@@ -1,6 +1,6 @@
 ---
 title: Oppo K11x's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - k11x
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo K11x's photos
 keywords: Oppo K11x, Oppo K11x photos, Oppo K11x device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-k11x/1.jpg
 ---
 
 ## Oppo K11x's photos

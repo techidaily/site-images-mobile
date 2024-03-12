@@ -1,6 +1,6 @@
 ---
 title: Realme GT 5 (240W)'s photos
-date: 2024-02-25
+date: 2024-02-29
 tags: 
   - realme
   - gt 5 (240w)

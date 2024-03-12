@@ -1,6 +1,6 @@
 ---
 title: Tecno Pop 8's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - tecno
   - pop 8
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Tecno Pop 8's photos
 keywords: Tecno Pop 8, Tecno Pop 8 photos, Tecno Pop 8 device photo
+thumbnail: /images/best-assets/devices/tecno/tecno-pop-8/1.jpg
 ---
 
 ## Tecno Pop 8's photos

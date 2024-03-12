@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova 10 Youth Edition's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - nova 10 youth edition
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Nova 10 Youth Edition's photos
 keywords: Huawei Nova 10 Youth Edition, Huawei Nova 10 Youth Edition photos, Huawei Nova 10 Youth Edition device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-nova-10-youth-edition/1.jpg
 ---
 
 ## Huawei Nova 10 Youth Edition's photos

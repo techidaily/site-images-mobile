@@ -1,6 +1,6 @@
 ---
 title: Poco X5 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - poco
   - x5 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Poco X5 Pro's photos
 keywords: Poco X5 Pro, Poco X5 Pro photos, Poco X5 Pro device photo
+thumbnail: /images/best-assets/devices/poco/poco-x5-pro/1.jpg
 ---
 
 ## Poco X5 Pro's photos

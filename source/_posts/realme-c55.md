@@ -1,6 +1,6 @@
 ---
 title: Realme C55's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - c55
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme C55's photos
 keywords: Realme C55, Realme C55 photos, Realme C55 device photo
+thumbnail: /images/best-assets/devices/realme/realme-c55/1.jpg
 ---
 
 ## Realme C55's photos

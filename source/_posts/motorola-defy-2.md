@@ -1,6 +1,6 @@
 ---
 title: Motorola Defy 2's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - defy 2
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Defy 2's photos
 keywords: Motorola Defy 2, Motorola Defy 2 photos, Motorola Defy 2 device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-defy-2/1.jpg
 ---
 
 ## Motorola Defy 2's photos

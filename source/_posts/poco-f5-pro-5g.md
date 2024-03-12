@@ -1,6 +1,6 @@
 ---
 title: Poco F5 Pro 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - poco
   - f5 pro 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Poco F5 Pro 5G's photos
 keywords: Poco F5 Pro 5G, Poco F5 Pro 5G photos, Poco F5 Pro 5G device photo
+thumbnail: /images/best-assets/devices/poco/poco-f5-pro-5g/1.jpg
 ---
 
 ## Poco F5 Pro 5G's photos

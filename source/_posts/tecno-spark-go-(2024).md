@@ -1,6 +1,6 @@
 ---
 title: Tecno Spark Go (2024)'s photos
-date: 2024-02-25
+date: 2024-02-29
 tags: 
   - tecno
   - spark go (2024)

@@ -85,8 +85,8 @@ global:
   open_graph: true
   # Google Analytics
   google_analytics:
-    enable: false # Whether to enable Google Analytics
-    id:  # Google Analytics Measurement ID
+    enable: true # Whether to enable Google Analytics
+    id: G-NYMH9T25CD # Google Analytics Measurement ID # use GA4 code id
 # SITE CUSTOMIZATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
     
 
@@ -186,8 +186,8 @@ navbar:
     pages: 1000px #other pages
   # Navbar links
   links:
-    Home: 
-      path: / 
+    News: 
+      path: https://techidaily.com
       icon: fa-regular fa-house # can be empty
     Links: 
       icon: fa-regular fa-link
@@ -201,9 +201,9 @@ navbar:
     Privacy:
       path: /privacy
       icon: fa-regular fa-shield-halved
-    Terms and Conditions:
+    Terms&Conditions:
       path: /terms_conditions
-      icon: fa-regular fa-file-contract      
+      icon: fa-regular fa-file-contract
     About:
       path: /about
       icon: fa-regular fa-user
@@ -274,7 +274,7 @@ articles:
   style:
     font_size: 16px # Font size
     line_height: 1.5 # Line height
-    image_border_radius: 14px # image border radius
+    image_border_radius: 0px # image border radius
     image_alignment: center # image alignment. left, center
     image_caption: false # Whether to display image caption
     link_icon: true # Whether to display link icon
@@ -338,7 +338,7 @@ articles:
 # Docs: https://redefine-docs.ohevan.com/posts/comment
 comment:
   # Whether to enable comment
-  enable: true
+  enable: false
   # Comment system
   system: waline # waline, gitalk, twikoo, giscus
   # System configuration

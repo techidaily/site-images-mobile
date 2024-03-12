@@ -1,6 +1,6 @@
 ---
 title: Realme C51's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - c51
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme C51's photos
 keywords: Realme C51, Realme C51 photos, Realme C51 device photo
+thumbnail: /images/best-assets/devices/realme/realme-c51/1.jpg
 ---
 
 ## Realme C51's photos

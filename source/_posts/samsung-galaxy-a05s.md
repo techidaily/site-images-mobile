@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy A05s's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy a05s
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy A05s's photos
 keywords: Samsung Galaxy A05s, Samsung Galaxy A05s photos, Samsung Galaxy A05s device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-a05s/1.jpg
 ---
 
 ## Samsung Galaxy A05s's photos

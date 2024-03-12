@@ -1,6 +1,6 @@
 ---
 title: Realme C53's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - c53
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme C53's photos
 keywords: Realme C53, Realme C53 photos, Realme C53 device photo
+thumbnail: /images/best-assets/devices/realme/realme-c53/1.jpg
 ---
 
 ## Realme C53's photos

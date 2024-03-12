@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova 12 Ultra's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - nova 12 ultra
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Nova 12 Ultra's photos
 keywords: Huawei Nova 12 Ultra, Huawei Nova 12 Ultra photos, Huawei Nova 12 Ultra device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-nova-12-ultra/1.jpg
 ---
 
 ## Huawei Nova 12 Ultra's photos

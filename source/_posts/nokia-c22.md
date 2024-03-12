@@ -1,6 +1,6 @@
 ---
 title: Nokia C22's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - c22
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia C22's photos
 keywords: Nokia C22, Nokia C22 photos, Nokia C22 device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-c22/1.jpg
 ---
 
 ## Nokia C22's photos

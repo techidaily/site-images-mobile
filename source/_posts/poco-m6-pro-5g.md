@@ -1,6 +1,6 @@
 ---
 title: Poco M6 Pro 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - poco
   - m6 pro 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Poco M6 Pro 5G's photos
 keywords: Poco M6 Pro 5G, Poco M6 Pro 5G photos, Poco M6 Pro 5G device photo
+thumbnail: /images/best-assets/devices/poco/poco-m6-pro-5g/1.jpg
 ---
 
 ## Poco M6 Pro 5G's photos

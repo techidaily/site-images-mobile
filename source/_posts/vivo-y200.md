@@ -1,6 +1,6 @@
 ---
 title: Vivo Y200's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y200
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y200's photos
 keywords: Vivo Y200, Vivo Y200 photos, Vivo Y200 device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y200/1.jpg
 ---
 
 ## Vivo Y200's photos

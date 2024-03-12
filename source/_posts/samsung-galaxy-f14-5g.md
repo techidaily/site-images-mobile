@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy F14 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy f14 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy F14 5G's photos
 keywords: Samsung Galaxy F14 5G, Samsung Galaxy F14 5G photos, Samsung Galaxy F14 5G device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-f14-5g/1.jpg
 ---
 
 ## Samsung Galaxy F14 5G's photos

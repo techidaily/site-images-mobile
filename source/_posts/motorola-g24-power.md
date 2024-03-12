@@ -1,6 +1,6 @@
 ---
 title: Motorola G24 Power's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - g24 power
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola G24 Power's photos
 keywords: Motorola G24 Power, Motorola G24 Power photos, Motorola G24 Power device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-g24-power/1.jpg
 ---
 
 ## Motorola G24 Power's photos

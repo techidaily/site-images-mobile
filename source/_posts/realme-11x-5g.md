@@ -1,6 +1,6 @@
 ---
 title: Realme 11X 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - 11x 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme 11X 5G's photos
 keywords: Realme 11X 5G, Realme 11X 5G photos, Realme 11X 5G device photo
+thumbnail: /images/best-assets/devices/realme/realme-11x-5g/1.jpg
 ---
 
 ## Realme 11X 5G's photos

@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Civi 3 Disney 100th Anniversary Edition's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - civi 3 disney 100th anniversary edition
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi Civi 3 Disney 100th Anniversary Edition's photos
 keywords: Xiaomi Civi 3 Disney 100th Anniversary Edition, Xiaomi Civi 3 Disney 100th Anniversary Edition photos, Xiaomi Civi 3 Disney 100th Anniversary Edition device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-civi-3-disney-100th-anniversary-edition/1.jpg
 ---
 
 ## Xiaomi Civi 3 Disney 100th Anniversary Edition's photos

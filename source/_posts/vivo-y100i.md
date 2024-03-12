@@ -1,6 +1,6 @@
 ---
 title: Vivo Y100i's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y100i
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y100i's photos
 keywords: Vivo Y100i, Vivo Y100i photos, Vivo Y100i device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y100i/1.jpg
 ---
 
 ## Vivo Y100i's photos

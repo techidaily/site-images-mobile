@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G14's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - moto g14
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Moto G14's photos
 keywords: Motorola Moto G14, Motorola Moto G14 photos, Motorola Moto G14 device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-moto-g14/1.jpg
 ---
 
 ## Motorola Moto G14's photos

@@ -1,6 +1,6 @@
 ---
 title: Honor X50 GT's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - x50 gt
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor X50 GT's photos
 keywords: Honor X50 GT, Honor X50 GT photos, Honor X50 GT device photo
+thumbnail: /images/best-assets/devices/honor/honor-x50-gt/1.jpg
 ---
 
 ## Honor X50 GT's photos

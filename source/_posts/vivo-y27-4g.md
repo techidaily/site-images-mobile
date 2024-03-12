@@ -1,6 +1,6 @@
 ---
 title: Vivo Y27 4G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y27 4g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y27 4G's photos
 keywords: Vivo Y27 4G, Vivo Y27 4G photos, Vivo Y27 4G device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y27-4g/1.jpg
 ---
 
 ## Vivo Y27 4G's photos

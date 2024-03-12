@@ -1,6 +1,6 @@
 ---
 title: Huawei Enjoy 70's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - enjoy 70
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Enjoy 70's photos
 keywords: Huawei Enjoy 70, Huawei Enjoy 70 photos, Huawei Enjoy 70 device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-enjoy-70/1.jpg
 ---
 
 ## Huawei Enjoy 70's photos

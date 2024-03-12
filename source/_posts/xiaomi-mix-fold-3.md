@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Mix Fold 3's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - mix fold 3
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi Mix Fold 3's photos
 keywords: Xiaomi Mix Fold 3, Xiaomi Mix Fold 3 photos, Xiaomi Mix Fold 3 device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-mix-fold-3/1.jpg
 ---
 
 ## Xiaomi Mix Fold 3's photos

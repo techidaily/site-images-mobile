@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy XCover 6 Pro Tactical Edition's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy xcover 6 pro tactical edition
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy XCover 6 Pro Tactical Edition's photos
 keywords: Samsung Galaxy XCover 6 Pro Tactical Edition, Samsung Galaxy XCover 6 Pro Tactical Edition photos, Samsung Galaxy XCover 6 Pro Tactical Edition device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-xcover-6-pro-tactical-edition/1.jpg
 ---
 
 ## Samsung Galaxy XCover 6 Pro Tactical Edition's photos

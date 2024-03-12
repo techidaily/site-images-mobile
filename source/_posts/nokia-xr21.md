@@ -1,6 +1,6 @@
 ---
 title: Nokia XR21's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - xr21
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia XR21's photos
 keywords: Nokia XR21, Nokia XR21 photos, Nokia XR21 device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-xr21/1.jpg
 ---
 
 ## Nokia XR21's photos

@@ -1,6 +1,6 @@
 ---
 title: Huawei Mate 60 RS Ultimate Design's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - mate 60 rs ultimate design
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Mate 60 RS Ultimate Design's photos
 keywords: Huawei Mate 60 RS Ultimate Design, Huawei Mate 60 RS Ultimate Design photos, Huawei Mate 60 RS Ultimate Design device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-mate-60-rs-ultimate-design/1.jpg
 ---
 
 ## Huawei Mate 60 RS Ultimate Design's photos

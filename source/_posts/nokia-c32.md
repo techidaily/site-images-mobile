@@ -1,6 +1,6 @@
 ---
 title: Nokia C32's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - c32
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia C32's photos
 keywords: Nokia C32, Nokia C32 photos, Nokia C32 device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-c32/1.jpg
 ---
 
 ## Nokia C32's photos

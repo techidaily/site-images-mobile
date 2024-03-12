@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova 12 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - nova 12 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Nova 12 Pro's photos
 keywords: Huawei Nova 12 Pro, Huawei Nova 12 Pro photos, Huawei Nova 12 Pro device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-nova-12-pro/1.jpg
 ---
 
 ## Huawei Nova 12 Pro's photos

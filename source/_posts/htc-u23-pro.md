@@ -1,6 +1,6 @@
 ---
 title: Htc U23 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - htc
   - u23 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Htc U23 Pro's photos
 keywords: Htc U23 Pro, Htc U23 Pro photos, Htc U23 Pro device photo
+thumbnail: /images/best-assets/devices/htc/htc-u23-pro/1.jpg
 ---
 
 ## Htc U23 Pro's photos

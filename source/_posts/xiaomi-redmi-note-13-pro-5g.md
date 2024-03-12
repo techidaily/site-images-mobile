@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Redmi Note 13 Pro 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - redmi note 13 pro 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi Redmi Note 13 Pro 5G's photos
 keywords: Xiaomi Redmi Note 13 Pro 5G, Xiaomi Redmi Note 13 Pro 5G photos, Xiaomi Redmi Note 13 Pro 5G device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-redmi-note-13-pro-5g/1.jpg
 ---
 
 ## Xiaomi Redmi Note 13 Pro 5G's photos

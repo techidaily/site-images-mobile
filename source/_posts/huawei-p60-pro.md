@@ -1,6 +1,6 @@
 ---
 title: Huawei P60 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - p60 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei P60 Pro's photos
 keywords: Huawei P60 Pro, Huawei P60 Pro photos, Huawei P60 Pro device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-p60-pro/1.jpg
 ---
 
 ## Huawei P60 Pro's photos

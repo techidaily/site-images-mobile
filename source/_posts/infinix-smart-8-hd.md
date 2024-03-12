@@ -1,6 +1,6 @@
 ---
 title: Infinix Smart 8 HD's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - infinix
   - smart 8 hd
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Infinix Smart 8 HD's photos
 keywords: Infinix Smart 8 HD, Infinix Smart 8 HD photos, Infinix Smart 8 HD device photo
+thumbnail: /images/best-assets/devices/infinix/infinix-smart-8-hd/1.jpg
 ---
 
 ## Infinix Smart 8 HD's photos

@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G34 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - moto g34 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Moto G34 5G's photos
 keywords: Motorola Moto G34 5G, Motorola Moto G34 5G photos, Motorola Moto G34 5G device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-moto-g34-5g/1.jpg
 ---
 
 ## Motorola Moto G34 5G's photos

@@ -1,6 +1,6 @@
 ---
 title: Sony Xperia 5 V's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - sony
   - xperia 5 v
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Sony Xperia 5 V's photos
 keywords: Sony Xperia 5 V, Sony Xperia 5 V photos, Sony Xperia 5 V device photo
+thumbnail: /images/best-assets/devices/sony/sony-xperia-5-v/1.jpg
 ---
 
 ## Sony Xperia 5 V's photos

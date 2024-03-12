@@ -1,6 +1,6 @@
 ---
 title: Poco C51's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - poco
   - c51
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Poco C51's photos
 keywords: Poco C51, Poco C51 photos, Poco C51 device photo
+thumbnail: /images/best-assets/devices/poco/poco-c51/1.jpg
 ---
 
 ## Poco C51's photos

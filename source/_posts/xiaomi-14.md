@@ -1,6 +1,6 @@
 ---
 title: Xiaomi 14's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - 14
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi 14's photos
 keywords: Xiaomi 14, Xiaomi 14 photos, Xiaomi 14 device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-14/1.jpg
 ---
 
 ## Xiaomi 14's photos

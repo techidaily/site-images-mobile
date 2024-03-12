@@ -1,6 +1,6 @@
 ---
 title: Lava Blaze 2's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - lava
   - blaze 2
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Lava Blaze 2's photos
 keywords: Lava Blaze 2, Lava Blaze 2 photos, Lava Blaze 2 device photo
+thumbnail: /images/best-assets/devices/lava/lava-blaze-2/1.jpg
 ---
 
 ## Lava Blaze 2's photos

@@ -1,6 +1,6 @@
 ---
 title: Honor 100's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - 100
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor 100's photos
 keywords: Honor 100, Honor 100 photos, Honor 100 device photo
+thumbnail: /images/best-assets/devices/honor/honor-100/1.jpg
 ---
 
 ## Honor 100's photos

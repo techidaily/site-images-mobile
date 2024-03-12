@@ -1,6 +1,6 @@
 ---
 title: Itel S23+'s photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - itel
   - s23+
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Itel S23+'s photos
 keywords: Itel S23+, Itel S23+ photos, Itel S23+ device photo
+thumbnail: /images/best-assets/devices/itel/itel-s23plus/1.jpg
 ---
 
 ## Itel S23+'s photos

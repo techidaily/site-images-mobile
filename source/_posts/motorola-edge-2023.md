@@ -1,6 +1,6 @@
 ---
 title: Motorola Edge 2023's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - edge 2023
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Edge 2023's photos
 keywords: Motorola Edge 2023, Motorola Edge 2023 photos, Motorola Edge 2023 device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-edge-2023/1.jpg
 ---
 
 ## Motorola Edge 2023's photos

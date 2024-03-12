@@ -1,6 +1,6 @@
 ---
 title: Google Pixel Fold's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - google
   - pixel fold
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Google Pixel Fold's photos
 keywords: Google Pixel Fold, Google Pixel Fold photos, Google Pixel Fold device photo
+thumbnail: /images/best-assets/devices/google/google-pixel-fold/1.jpg
 ---
 
 ## Google Pixel Fold's photos

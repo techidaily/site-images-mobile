@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova 12 Lite's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - nova 12 lite
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Nova 12 Lite's photos
 keywords: Huawei Nova 12 Lite, Huawei Nova 12 Lite photos, Huawei Nova 12 Lite device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-nova-12-lite/1.jpg
 ---
 
 ## Huawei Nova 12 Lite's photos

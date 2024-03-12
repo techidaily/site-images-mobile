@@ -1,6 +1,6 @@
 ---
 title: Nokia G22's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - g22
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia G22's photos
 keywords: Nokia G22, Nokia G22 photos, Nokia G22 device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-g22/1.jpg
 ---
 
 ## Nokia G22's photos

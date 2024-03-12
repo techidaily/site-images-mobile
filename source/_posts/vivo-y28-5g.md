@@ -1,6 +1,6 @@
 ---
 title: Vivo Y28 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y28 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y28 5G's photos
 keywords: Vivo Y28 5G, Vivo Y28 5G photos, Vivo Y28 5G device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y28-5g/1.jpg
 ---
 
 ## Vivo Y28 5G's photos

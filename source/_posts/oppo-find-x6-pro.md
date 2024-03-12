@@ -1,6 +1,6 @@
 ---
 title: Oppo Find X6 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - find x6 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo Find X6 Pro's photos
 keywords: Oppo Find X6 Pro, Oppo Find X6 Pro photos, Oppo Find X6 Pro device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-find-x6-pro/1.jpg
 ---
 
 ## Oppo Find X6 Pro's photos

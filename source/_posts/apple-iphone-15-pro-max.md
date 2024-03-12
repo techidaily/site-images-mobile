@@ -1,6 +1,6 @@
 ---
 title: Apple iPhone 15 Pro Max's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - apple
   - iphone 15 pro max
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Apple iPhone 15 Pro Max's photos
 keywords: Apple iPhone 15 Pro Max, Apple iPhone 15 Pro Max photos, Apple iPhone 15 Pro Max device photo
+thumbnail: /images/best-assets/devices/apple/apple-iphone-15-pro-max/1.jpg
 ---
 
 ## Apple iPhone 15 Pro Max's photos

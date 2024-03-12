@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G84 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - moto g84 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Moto G84 5G's photos
 keywords: Motorola Moto G84 5G, Motorola Moto G84 5G photos, Motorola Moto G84 5G device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-moto-g84-5g/1.jpg
 ---
 
 ## Motorola Moto G84 5G's photos

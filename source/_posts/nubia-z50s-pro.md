@@ -1,6 +1,6 @@
 ---
 title: Nubia Z50S Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nubia
   - z50s pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nubia Z50S Pro's photos
 keywords: Nubia Z50S Pro, Nubia Z50S Pro photos, Nubia Z50S Pro device photo
+thumbnail: /images/best-assets/devices/nubia/nubia-z50s-pro/1.jpg
 ---
 
 ## Nubia Z50S Pro's photos

@@ -1,6 +1,6 @@
 ---
 title: Vivo V29e's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - v29e
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo V29e's photos
 keywords: Vivo V29e, Vivo V29e photos, Vivo V29e device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-v29e/1.jpg
 ---
 
 ## Vivo V29e's photos

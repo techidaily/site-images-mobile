@@ -1,6 +1,6 @@
 ---
 title: Oneplus Nord CE 3 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oneplus
   - nord ce 3 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oneplus Nord CE 3 5G's photos
 keywords: Oneplus Nord CE 3 5G, Oneplus Nord CE 3 5G photos, Oneplus Nord CE 3 5G device photo
+thumbnail: /images/best-assets/devices/oneplus/oneplus-nord-ce-3-5g/1.jpg
 ---
 
 ## Oneplus Nord CE 3 5G's photos

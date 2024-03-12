@@ -1,6 +1,6 @@
 ---
 title: Oppo A18's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - a18
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo A18's photos
 keywords: Oppo A18, Oppo A18 photos, Oppo A18 device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-a18/1.jpg
 ---
 
 ## Oppo A18's photos

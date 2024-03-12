@@ -1,6 +1,6 @@
 ---
 title: Tecno Pop 7 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - tecno
   - pop 7 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Tecno Pop 7 Pro's photos
 keywords: Tecno Pop 7 Pro, Tecno Pop 7 Pro photos, Tecno Pop 7 Pro device photo
+thumbnail: /images/best-assets/devices/tecno/tecno-pop-7-pro/1.jpg
 ---
 
 ## Tecno Pop 7 Pro's photos

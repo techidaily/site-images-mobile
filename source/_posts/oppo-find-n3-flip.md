@@ -1,6 +1,6 @@
 ---
 title: Oppo Find N3 Flip's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - find n3 flip
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo Find N3 Flip's photos
 keywords: Oppo Find N3 Flip, Oppo Find N3 Flip photos, Oppo Find N3 Flip device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-find-n3-flip/1.jpg
 ---
 
 ## Oppo Find N3 Flip's photos

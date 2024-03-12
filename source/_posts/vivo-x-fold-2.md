@@ -1,6 +1,6 @@
 ---
 title: Vivo X Fold 2's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - x fold 2
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo X Fold 2's photos
 keywords: Vivo X Fold 2, Vivo X Fold 2 photos, Vivo X Fold 2 device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-x-fold-2/1.jpg
 ---
 
 ## Vivo X Fold 2's photos

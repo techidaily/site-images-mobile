@@ -1,6 +1,6 @@
 ---
 title: Tecno Camon 20 Premier 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - tecno
   - camon 20 premier 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Tecno Camon 20 Premier 5G's photos
 keywords: Tecno Camon 20 Premier 5G, Tecno Camon 20 Premier 5G photos, Tecno Camon 20 Premier 5G device photo
+thumbnail: /images/best-assets/devices/tecno/tecno-camon-20-premier-5g/1.jpg
 ---
 
 ## Tecno Camon 20 Premier 5G's photos

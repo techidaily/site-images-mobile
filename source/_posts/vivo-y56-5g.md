@@ -1,6 +1,6 @@
 ---
 title: Vivo Y56 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y56 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y56 5G's photos
 keywords: Vivo Y56 5G, Vivo Y56 5G photos, Vivo Y56 5G device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y56-5g/1.jpg
 ---
 
 ## Vivo Y56 5G's photos

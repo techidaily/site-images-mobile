@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy A24's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy a24
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy A24's photos
 keywords: Samsung Galaxy A24, Samsung Galaxy A24 photos, Samsung Galaxy A24 device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-a24/1.jpg
 ---
 
 ## Samsung Galaxy A24's photos

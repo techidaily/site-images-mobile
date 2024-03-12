@@ -1,6 +1,6 @@
 ---
 title: Motorola Razr 40's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - razr 40
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Razr 40's photos
 keywords: Motorola Razr 40, Motorola Razr 40 photos, Motorola Razr 40 device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-razr-40/1.jpg
 ---
 
 ## Motorola Razr 40's photos

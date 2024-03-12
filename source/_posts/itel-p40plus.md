@@ -1,6 +1,6 @@
 ---
 title: Itel P40+'s photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - itel
   - p40+
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Itel P40+'s photos
 keywords: Itel P40+, Itel P40+ photos, Itel P40+ device photo
+thumbnail: /images/best-assets/devices/itel/itel-p40plus/1.jpg
 ---
 
 ## Itel P40+'s photos

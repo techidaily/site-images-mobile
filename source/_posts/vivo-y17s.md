@@ -1,6 +1,6 @@
 ---
 title: Vivo Y17s's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y17s
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y17s's photos
 keywords: Vivo Y17s, Vivo Y17s photos, Vivo Y17s device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y17s/1.jpg
 ---
 
 ## Vivo Y17s's photos

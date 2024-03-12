@@ -1,6 +1,6 @@
 ---
 title: Vivo Y36's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y36
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y36's photos
 keywords: Vivo Y36, Vivo Y36 photos, Vivo Y36 device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y36/1.jpg
 ---
 
 ## Vivo Y36's photos

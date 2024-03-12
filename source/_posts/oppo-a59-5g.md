@@ -1,6 +1,6 @@
 ---
 title: Oppo A59 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - a59 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo A59 5G's photos
 keywords: Oppo A59 5G, Oppo A59 5G photos, Oppo A59 5G device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-a59-5g/1.jpg
 ---
 
 ## Oppo A59 5G's photos

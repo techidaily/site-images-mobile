@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Civi 3's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - civi 3
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi Civi 3's photos
 keywords: Xiaomi Civi 3, Xiaomi Civi 3 photos, Xiaomi Civi 3 device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-civi-3/1.jpg
 ---
 
 ## Xiaomi Civi 3's photos

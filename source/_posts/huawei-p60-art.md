@@ -1,6 +1,6 @@
 ---
 title: Huawei P60 Art's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - p60 art
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei P60 Art's photos
 keywords: Huawei P60 Art, Huawei P60 Art photos, Huawei P60 Art device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-p60-art/1.jpg
 ---
 
 ## Huawei P60 Art's photos

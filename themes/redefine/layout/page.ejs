@@ -37,20 +37,15 @@
 
                 <% } else if (is_tag()) { %>
                     <%- partial('tag-content') %>
-	            <%- partial('_partials/ads/adv-bottom') %>
                 <% } else if (page.title === 'category' || page.title === 'categories') { %>
                     <%- partial('category-list') %>
-		    <%- partial('_partials/ads/adv-bottom') %>
                 <% } else if (page.title === 'tag' || page.title === 'tags') { %>
                     <%- partial('_widgets/tagcloud') %>
 
                 <% } else if (page.title === 'Page Not Found' || page.title === '404') { %>
                     <%- partial('_partials/404-template') %>
-                    <%- partial('_partials/ads/adv-bottom') %>
-
                 <% } else { %>
                     <%- partial('_partials/page-template') %>
-                    <%- partial('_partials/ads/adv-bottom') %>
                 <% } %>
 
 		<%- partial('_partials/promote/seo-en90') %>

@@ -1,6 +1,6 @@
 ---
 title: Itel A60's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - itel
   - a60
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Itel A60's photos
 keywords: Itel A60, Itel A60 photos, Itel A60 device photo
+thumbnail: /images/best-assets/devices/itel/itel-a60/1.jpg
 ---
 
 ## Itel A60's photos

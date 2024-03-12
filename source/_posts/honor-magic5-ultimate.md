@@ -1,6 +1,6 @@
 ---
 title: Honor Magic5 Ultimate's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - magic5 ultimate
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor Magic5 Ultimate's photos
 keywords: Honor Magic5 Ultimate, Honor Magic5 Ultimate photos, Honor Magic5 Ultimate device photo
+thumbnail: /images/best-assets/devices/honor/honor-magic5-ultimate/1.jpg
 ---
 
 ## Honor Magic5 Ultimate's photos

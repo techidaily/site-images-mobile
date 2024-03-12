@@ -1,6 +1,6 @@
 ---
 title: Apple iPhone 15 Plus's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - apple
   - iphone 15 plus
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Apple iPhone 15 Plus's photos
 keywords: Apple iPhone 15 Plus, Apple iPhone 15 Plus photos, Apple iPhone 15 Plus device photo
+thumbnail: /images/best-assets/devices/apple/apple-iphone-15-plus/1.jpg
 ---
 
 ## Apple iPhone 15 Plus's photos

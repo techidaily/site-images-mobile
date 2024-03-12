@@ -1,6 +1,6 @@
 ---
 title: Vivo V30's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - v30
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo V30's photos
 keywords: Vivo V30, Vivo V30 photos, Vivo V30 device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-v30/1.jpg
 ---
 
 ## Vivo V30's photos

@@ -1,6 +1,6 @@
 ---
 title: Infinix Hot 40 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - infinix
   - hot 40 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Infinix Hot 40 Pro's photos
 keywords: Infinix Hot 40 Pro, Infinix Hot 40 Pro photos, Infinix Hot 40 Pro device photo
+thumbnail: /images/best-assets/devices/infinix/infinix-hot-40-pro/1.jpg
 ---
 
 ## Infinix Hot 40 Pro's photos

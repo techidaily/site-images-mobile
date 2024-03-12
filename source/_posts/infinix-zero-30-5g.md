@@ -1,6 +1,6 @@
 ---
 title: Infinix Zero 30 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - infinix
   - zero 30 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Infinix Zero 30 5G's photos
 keywords: Infinix Zero 30 5G, Infinix Zero 30 5G photos, Infinix Zero 30 5G device photo
+thumbnail: /images/best-assets/devices/infinix/infinix-zero-30-5g/1.jpg
 ---
 
 ## Infinix Zero 30 5G's photos

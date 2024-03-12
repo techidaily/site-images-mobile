@@ -1,6 +1,6 @@
 ---
 title: Zte Nubia Z60 Ultra's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - zte
   - nubia z60 ultra
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Zte Nubia Z60 Ultra's photos
 keywords: Zte Nubia Z60 Ultra, Zte Nubia Z60 Ultra photos, Zte Nubia Z60 Ultra device photo
+thumbnail: /images/best-assets/devices/zte/zte-nubia-z60-ultra/1.jpg
 ---
 
 ## Zte Nubia Z60 Ultra's photos

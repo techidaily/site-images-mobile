@@ -1,6 +1,6 @@
 ---
 title: Realme V30T's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - v30t
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme V30T's photos
 keywords: Realme V30T, Realme V30T photos, Realme V30T device photo
+thumbnail: /images/best-assets/devices/realme/realme-v30t/1.jpg
 ---
 
 ## Realme V30T's photos

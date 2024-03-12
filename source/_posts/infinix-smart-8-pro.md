@@ -1,6 +1,6 @@
 ---
 title: Infinix Smart 8 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - infinix
   - smart 8 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Infinix Smart 8 Pro's photos
 keywords: Infinix Smart 8 Pro, Infinix Smart 8 Pro photos, Infinix Smart 8 Pro device photo
+thumbnail: /images/best-assets/devices/infinix/infinix-smart-8-pro/1.jpg
 ---
 
 ## Infinix Smart 8 Pro's photos

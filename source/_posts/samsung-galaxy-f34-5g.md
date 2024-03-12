@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy F34 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy f34 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy F34 5G's photos
 keywords: Samsung Galaxy F34 5G, Samsung Galaxy F34 5G photos, Samsung Galaxy F34 5G device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-f34-5g/1.jpg
 ---
 
 ## Samsung Galaxy F34 5G's photos

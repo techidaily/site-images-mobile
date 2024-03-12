@@ -1,6 +1,6 @@
 ---
 title: Realme Narzo N55's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - narzo n55
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme Narzo N55's photos
 keywords: Realme Narzo N55, Realme Narzo N55 photos, Realme Narzo N55 device photo
+thumbnail: /images/best-assets/devices/realme/realme-narzo-n55/1.jpg
 ---
 
 ## Realme Narzo N55's photos

@@ -1,6 +1,6 @@
 ---
 title: Huawei Mate X3's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - mate x3
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Mate X3's photos
 keywords: Huawei Mate X3, Huawei Mate X3 photos, Huawei Mate X3 device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-mate-x3/1.jpg
 ---
 
 ## Huawei Mate X3's photos

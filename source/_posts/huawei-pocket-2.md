@@ -1,6 +1,6 @@
 ---
 title: Huawei Pocket 2's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - pocket 2
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Pocket 2's photos
 keywords: Huawei Pocket 2, Huawei Pocket 2 photos, Huawei Pocket 2 device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-pocket-2/1.jpg
 ---
 
 ## Huawei Pocket 2's photos

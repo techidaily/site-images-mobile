@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy A14 4G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy a14 4g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy A14 4G's photos
 keywords: Samsung Galaxy A14 4G, Samsung Galaxy A14 4G photos, Samsung Galaxy A14 4G device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-a14-4g/1.jpg
 ---
 
 ## Samsung Galaxy A14 4G's photos

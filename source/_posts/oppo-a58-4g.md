@@ -1,6 +1,6 @@
 ---
 title: Oppo A58 4G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - a58 4g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo A58 4G's photos
 keywords: Oppo A58 4G, Oppo A58 4G photos, Oppo A58 4G device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-a58-4g/1.jpg
 ---
 
 ## Oppo A58 4G's photos

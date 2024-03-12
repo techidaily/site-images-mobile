@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy M34's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy m34
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy M34's photos
 keywords: Samsung Galaxy M34, Samsung Galaxy M34 photos, Samsung Galaxy M34 device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-m34/1.jpg
 ---
 
 ## Samsung Galaxy M34's photos

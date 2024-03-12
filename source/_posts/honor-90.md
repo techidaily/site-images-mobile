@@ -1,6 +1,6 @@
 ---
 title: Honor 90's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - 90
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor 90's photos
 keywords: Honor 90, Honor 90 photos, Honor 90 device photo
+thumbnail: /images/best-assets/devices/honor/honor-90/1.jpg
 ---
 
 ## Honor 90's photos

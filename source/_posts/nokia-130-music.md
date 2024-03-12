@@ -1,6 +1,6 @@
 ---
 title: Nokia 130 Music's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - 130 music
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia 130 Music's photos
 keywords: Nokia 130 Music, Nokia 130 Music photos, Nokia 130 Music device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-130-music/1.jpg
 ---
 
 ## Nokia 130 Music's photos

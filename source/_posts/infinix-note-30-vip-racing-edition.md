@@ -1,6 +1,6 @@
 ---
 title: Infinix Note 30 VIP Racing Edition's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - infinix
   - note 30 vip racing edition
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Infinix Note 30 VIP Racing Edition's photos
 keywords: Infinix Note 30 VIP Racing Edition, Infinix Note 30 VIP Racing Edition photos, Infinix Note 30 VIP Racing Edition device photo
+thumbnail: /images/best-assets/devices/infinix/infinix-note-30-vip-racing-edition/1.jpg
 ---
 
 ## Infinix Note 30 VIP Racing Edition's photos

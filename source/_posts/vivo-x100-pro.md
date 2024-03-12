@@ -1,6 +1,6 @@
 ---
 title: Vivo X100 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - x100 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo X100 Pro's photos
 keywords: Vivo X100 Pro, Vivo X100 Pro photos, Vivo X100 Pro device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-x100-pro/1.jpg
 ---
 
 ## Vivo X100 Pro's photos

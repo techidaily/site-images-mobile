@@ -1,6 +1,6 @@
 ---
 title: Vivo Y36i's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - y36i
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo Y36i's photos
 keywords: Vivo Y36i, Vivo Y36i photos, Vivo Y36i device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-y36i/1.jpg
 ---
 
 ## Vivo Y36i's photos

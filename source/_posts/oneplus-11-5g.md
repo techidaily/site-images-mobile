@@ -1,6 +1,6 @@
 ---
 title: Oneplus 11 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oneplus
   - 11 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oneplus 11 5G's photos
 keywords: Oneplus 11 5G, Oneplus 11 5G photos, Oneplus 11 5G device photo
+thumbnail: /images/best-assets/devices/oneplus/oneplus-11-5g/1.jpg
 ---
 
 ## Oneplus 11 5G's photos

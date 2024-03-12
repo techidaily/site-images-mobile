@@ -1,6 +1,6 @@
 ---
 title: Huawei Nova Y71's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - nova y71
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Nova Y71's photos
 keywords: Huawei Nova Y71, Huawei Nova Y71 photos, Huawei Nova Y71 device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-nova-y71/1.jpg
 ---
 
 ## Huawei Nova Y71's photos

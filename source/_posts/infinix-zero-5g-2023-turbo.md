@@ -1,6 +1,6 @@
 ---
 title: Infinix Zero 5G 2023 Turbo's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - infinix
   - zero 5g 2023 turbo
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Infinix Zero 5G 2023 Turbo's photos
 keywords: Infinix Zero 5G 2023 Turbo, Infinix Zero 5G 2023 Turbo photos, Infinix Zero 5G 2023 Turbo device photo
+thumbnail: /images/best-assets/devices/infinix/infinix-zero-5g-2023-turbo/1.jpg
 ---
 
 ## Infinix Zero 5G 2023 Turbo's photos

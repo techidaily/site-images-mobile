@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Redmi 13C 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - redmi 13c 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi Redmi 13C 5G's photos
 keywords: Xiaomi Redmi 13C 5G, Xiaomi Redmi 13C 5G photos, Xiaomi Redmi 13C 5G device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-redmi-13c-5g/1.jpg
 ---
 
 ## Xiaomi Redmi 13C 5G's photos

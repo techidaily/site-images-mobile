@@ -1,6 +1,6 @@
 ---
 title: Realme GT Neo 5's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - gt neo 5
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme GT Neo 5's photos
 keywords: Realme GT Neo 5, Realme GT Neo 5 photos, Realme GT Neo 5 device photo
+thumbnail: /images/best-assets/devices/realme/realme-gt-neo-5/1.jpg
 ---
 
 ## Realme GT Neo 5's photos

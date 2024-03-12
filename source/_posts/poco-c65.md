@@ -1,6 +1,6 @@
 ---
 title: Poco C65's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - poco
   - c65
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Poco C65's photos
 keywords: Poco C65, Poco C65 photos, Poco C65 device photo
+thumbnail: /images/best-assets/devices/poco/poco-c65/1.jpg
 ---
 
 ## Poco C65's photos

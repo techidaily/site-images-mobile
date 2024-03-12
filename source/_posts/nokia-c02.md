@@ -1,6 +1,6 @@
 ---
 title: Nokia C02's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - nokia
   - c02
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Nokia C02's photos
 keywords: Nokia C02, Nokia C02 photos, Nokia C02 device photo
+thumbnail: /images/best-assets/devices/nokia/nokia-c02/1.jpg
 ---
 
 ## Nokia C02's photos

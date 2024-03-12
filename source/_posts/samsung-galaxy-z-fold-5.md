@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy Z Fold 5's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy z fold 5
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy Z Fold 5's photos
 keywords: Samsung Galaxy Z Fold 5, Samsung Galaxy Z Fold 5 photos, Samsung Galaxy Z Fold 5 device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-z-fold-5/1.jpg
 ---
 
 ## Samsung Galaxy Z Fold 5's photos

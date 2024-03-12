@@ -1,6 +1,6 @@
 ---
 title: Oppo Reno 8T 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - reno 8t 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo Reno 8T 5G's photos
 keywords: Oppo Reno 8T 5G, Oppo Reno 8T 5G photos, Oppo Reno 8T 5G device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-reno-8t-5g/1.jpg
 ---
 
 ## Oppo Reno 8T 5G's photos

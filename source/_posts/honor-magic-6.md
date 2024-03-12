@@ -1,6 +1,6 @@
 ---
 title: Honor Magic 6's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - magic 6
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor Magic 6's photos
 keywords: Honor Magic 6, Honor Magic 6 photos, Honor Magic 6 device photo
+thumbnail: /images/best-assets/devices/honor/honor-magic-6/1.jpg
 ---
 
 ## Honor Magic 6's photos

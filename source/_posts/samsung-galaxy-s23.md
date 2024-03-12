@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy S23's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy s23
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy S23's photos
 keywords: Samsung Galaxy S23, Samsung Galaxy S23 photos, Samsung Galaxy S23 device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-s23/1.jpg
 ---
 
 ## Samsung Galaxy S23's photos

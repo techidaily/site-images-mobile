@@ -1,6 +1,6 @@
 ---
 title: Infinix Note 30i's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - infinix
   - note 30i
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Infinix Note 30i's photos
 keywords: Infinix Note 30i, Infinix Note 30i photos, Infinix Note 30i device photo
+thumbnail: /images/best-assets/devices/infinix/infinix-note-30i/1.jpg
 ---
 
 ## Infinix Note 30i's photos

@@ -1,6 +1,6 @@
 ---
 title: Huawei Enjoy 60X's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - enjoy 60x
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Enjoy 60X's photos
 keywords: Huawei Enjoy 60X, Huawei Enjoy 60X photos, Huawei Enjoy 60X device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-enjoy-60x/1.jpg
 ---
 
 ## Huawei Enjoy 60X's photos

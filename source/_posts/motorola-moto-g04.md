@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G04's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - moto g04
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Moto G04's photos
 keywords: Motorola Moto G04, Motorola Moto G04 photos, Motorola Moto G04 device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-moto-g04/1.jpg
 ---
 
 ## Motorola Moto G04's photos

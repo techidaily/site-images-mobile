@@ -1,6 +1,6 @@
 ---
 title: Samsung Galaxy S24's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - samsung
   - galaxy s24
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Samsung Galaxy S24's photos
 keywords: Samsung Galaxy S24, Samsung Galaxy S24 photos, Samsung Galaxy S24 device photo
+thumbnail: /images/best-assets/devices/samsung/samsung-galaxy-s24/1.jpg
 ---
 
 ## Samsung Galaxy S24's photos

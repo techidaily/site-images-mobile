@@ -1,6 +1,6 @@
 ---
 title: Sony Xperia 10 V's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - sony
   - xperia 10 v
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Sony Xperia 10 V's photos
 keywords: Sony Xperia 10 V, Sony Xperia 10 V photos, Sony Xperia 10 V device photo
+thumbnail: /images/best-assets/devices/sony/sony-xperia-10-v/1.jpg
 ---
 
 ## Sony Xperia 10 V's photos

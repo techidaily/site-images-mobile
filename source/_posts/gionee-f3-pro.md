@@ -1,6 +1,6 @@
 ---
 title: Gionee F3 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - gionee
   - f3 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Gionee F3 Pro's photos
 keywords: Gionee F3 Pro, Gionee F3 Pro photos, Gionee F3 Pro device photo
+thumbnail: /images/best-assets/devices/gionee/gionee-f3-pro/1.jpg
 ---
 
 ## Gionee F3 Pro's photos

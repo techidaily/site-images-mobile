@@ -1,6 +1,6 @@
 ---
 title: Honor 70 Lite 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - 70 lite 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor 70 Lite 5G's photos
 keywords: Honor 70 Lite 5G, Honor 70 Lite 5G photos, Honor 70 Lite 5G device photo
+thumbnail: /images/best-assets/devices/honor/honor-70-lite-5g/1.jpg
 ---
 
 ## Honor 70 Lite 5G's photos

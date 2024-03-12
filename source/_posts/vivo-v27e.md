@@ -1,6 +1,6 @@
 ---
 title: Vivo V27e's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - v27e
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo V27e's photos
 keywords: Vivo V27e, Vivo V27e photos, Vivo V27e device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-v27e/1.jpg
 ---
 
 ## Vivo V27e's photos

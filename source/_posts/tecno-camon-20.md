@@ -1,6 +1,6 @@
 ---
 title: Tecno Camon 20's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - tecno
   - camon 20
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Tecno Camon 20's photos
 keywords: Tecno Camon 20, Tecno Camon 20 photos, Tecno Camon 20 device photo
+thumbnail: /images/best-assets/devices/tecno/tecno-camon-20/1.jpg
 ---
 
 ## Tecno Camon 20's photos

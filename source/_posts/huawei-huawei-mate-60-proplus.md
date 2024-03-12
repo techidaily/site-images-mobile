@@ -1,6 +1,6 @@
 ---
 title: Huawei Huawei Mate 60 Pro+'s photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - huawei
   - huawei mate 60 pro+
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Huawei Huawei Mate 60 Pro+'s photos
 keywords: Huawei Huawei Mate 60 Pro+, Huawei Huawei Mate 60 Pro+ photos, Huawei Huawei Mate 60 Pro+ device photo
+thumbnail: /images/best-assets/devices/huawei/huawei-huawei-mate-60-proplus/1.jpg
 ---
 
 ## Huawei Huawei Mate 60 Pro+'s photos

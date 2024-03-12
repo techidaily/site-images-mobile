@@ -1,6 +1,6 @@
 ---
 title: Xiaomi Redmi Note 12R's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - xiaomi
   - redmi note 12r
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Xiaomi Redmi Note 12R's photos
 keywords: Xiaomi Redmi Note 12R, Xiaomi Redmi Note 12R photos, Xiaomi Redmi Note 12R device photo
+thumbnail: /images/best-assets/devices/xiaomi/xiaomi-redmi-note-12r/1.jpg
 ---
 
 ## Xiaomi Redmi Note 12R's photos

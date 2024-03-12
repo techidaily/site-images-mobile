@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G24's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - motorola
   - moto g24
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Motorola Moto G24's photos
 keywords: Motorola Moto G24, Motorola Moto G24 photos, Motorola Moto G24 device photo
+thumbnail: /images/best-assets/devices/motorola/motorola-moto-g24/1.jpg
 ---
 
 ## Motorola Moto G24's photos

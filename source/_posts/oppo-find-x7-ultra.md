@@ -1,6 +1,6 @@
 ---
 title: Oppo Find X7 Ultra's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oppo
   - find x7 ultra
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oppo Find X7 Ultra's photos
 keywords: Oppo Find X7 Ultra, Oppo Find X7 Ultra photos, Oppo Find X7 Ultra device photo
+thumbnail: /images/best-assets/devices/oppo/oppo-find-x7-ultra/1.jpg
 ---
 
 ## Oppo Find X7 Ultra's photos

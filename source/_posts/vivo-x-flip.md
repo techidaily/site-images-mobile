@@ -1,6 +1,6 @@
 ---
 title: Vivo X Flip's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - x flip
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo X Flip's photos
 keywords: Vivo X Flip, Vivo X Flip photos, Vivo X Flip device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-x-flip/1.jpg
 ---
 
 ## Vivo X Flip's photos

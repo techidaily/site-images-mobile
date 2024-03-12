@@ -1,6 +1,6 @@
 ---
 title: Honor V Purse's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - honor
   - v purse
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Honor V Purse's photos
 keywords: Honor V Purse, Honor V Purse photos, Honor V Purse device photo
+thumbnail: /images/best-assets/devices/honor/honor-v-purse/1.jpg
 ---
 
 ## Honor V Purse's photos

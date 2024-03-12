@@ -1,6 +1,6 @@
 ---
 title: Apple iPhone 15 Pro's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - apple
   - iphone 15 pro
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Apple iPhone 15 Pro's photos
 keywords: Apple iPhone 15 Pro, Apple iPhone 15 Pro photos, Apple iPhone 15 Pro device photo
+thumbnail: /images/best-assets/devices/apple/apple-iphone-15-pro/1.jpg
 ---
 
 ## Apple iPhone 15 Pro's photos

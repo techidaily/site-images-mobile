@@ -1,6 +1,6 @@
 ---
 title: Lava Blaze Pro 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - lava
   - blaze pro 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Lava Blaze Pro 5G's photos
 keywords: Lava Blaze Pro 5G, Lava Blaze Pro 5G photos, Lava Blaze Pro 5G device photo
+thumbnail: /images/best-assets/devices/lava/lava-blaze-pro-5g/1.jpg
 ---
 
 ## Lava Blaze Pro 5G's photos

@@ -1,6 +1,6 @@
 ---
 title: Motorola Moto G 5G (2023)'s photos
-date: 2024-02-25
+date: 2024-02-29
 tags: 
   - motorola
   - moto g 5g (2023)

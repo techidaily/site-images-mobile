@@ -1,6 +1,6 @@
 ---
 title: Oneplus Open's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - oneplus
   - open
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Oneplus Open's photos
 keywords: Oneplus Open, Oneplus Open photos, Oneplus Open device photo
+thumbnail: /images/best-assets/devices/oneplus/oneplus-open/1.jpg
 ---
 
 ## Oneplus Open's photos

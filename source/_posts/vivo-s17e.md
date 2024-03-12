@@ -1,6 +1,6 @@
 ---
 title: Vivo S17e's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - vivo
   - s17e
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Vivo S17e's photos
 keywords: Vivo S17e, Vivo S17e photos, Vivo S17e device photo
+thumbnail: /images/best-assets/devices/vivo/vivo-s17e/1.jpg
 ---
 
 ## Vivo S17e's photos

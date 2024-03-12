@@ -1,6 +1,6 @@
 ---
 title: Realme 12 Pro+ 5G's photos
-date: 2024-02-25
+date: 2024-03-12
 tags: 
   - realme
   - 12 pro+ 5g
@@ -13,6 +13,7 @@ categories:
   - device photo
 description: Realme 12 Pro+ 5G's photos
 keywords: Realme 12 Pro+ 5G, Realme 12 Pro+ 5G photos, Realme 12 Pro+ 5G device photo
+thumbnail: /images/best-assets/devices/realme/realme-12-proplus-5g/1.jpg
 ---
 
 ## Realme 12 Pro+ 5G's photos
